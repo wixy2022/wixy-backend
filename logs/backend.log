@@ -1,0 +1,70 @@
+28.5.2022, 12:03:12 - ERROR - Failed to signup | fullname, username and password are required!
+28.5.2022, 12:03:39 - ERROR - Failed to signup | fullname, username and password are required!
+28.5.2022, 12:05:15 - ERROR - Failed to signup | fullname, username and password are required!
+28.5.2022, 12:06:53 - ERROR - Failed to signup | fullname, username and password are required!
+28.5.2022, 12:09:00 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 12:13:57 - ERROR - Failed to signup | fullname, username and password are required!
+28.5.2022, 12:16:04 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 12:17:23 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 12:19:08 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 12:22:00 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 12:24:14 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 12:41:15 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 12:41:53 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 12:43:01 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 13:04:05 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 13:09:59 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 13:13:54 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 13:15:52 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 13:16:17 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 13:21:22 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 13:21:25 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 13:23:49 - ERROR - Failed to login | Invalid username or password
+28.5.2022, 13:49:55 - DEBUG - auth.service - signup with email: muki@1234, fullname: muki muki
+28.5.2022, 13:49:55 - DEBUG - auth.route - new account created: {"email":"muki@1234","password":"$2b$10$lM4kX.aeuoXtP15L5EEANeCAhpTsC8NClfiZo9oQlgs/nxgYCAMU.","firstName":"muki","lastName":"muki","_id":"6291fe5396f81b86855bb612"}
+28.5.2022, 13:49:55 - DEBUG - auth.service - login with email: muki@1234
+28.5.2022, 13:49:55 - INFO - User login:  | {"_id":"6291fe5396f81b86855bb612","email":"muki@1234","firstName":"muki","lastName":"muki"}
+28.5.2022, 13:57:12 - ERROR - email is already being used
+28.5.2022, 13:57:12 - ERROR - Failed to signup undefined
+28.5.2022, 13:58:51 - ERROR - email is already being used
+28.5.2022, 13:58:51 - ERROR - Failed to signup undefined
+28.5.2022, 13:58:57 - DEBUG - auth.service - signup with email: , fullname:  
+28.5.2022, 13:58:57 - ERROR - Failed to signup fullname, email and password are required!
+28.5.2022, 13:59:26 - ERROR - email is already being used
+28.5.2022, 13:59:26 - ERROR - Failed to signup undefined
+28.5.2022, 14:00:13 - DEBUG - auth.service - signup with email: muki7@1234, fullname: Muki levi
+28.5.2022, 14:00:13 - DEBUG - auth.route - new account created: {"email":"muki7@1234","password":"$2b$10$7rozPZJaXZq66L7b8mN.2.iiIOq14.xxkUORY4w4QqUXqLDYnVEzS","firstName":"Muki","lastName":"levi","_id":"629200bd96f81b86855bb613"}
+28.5.2022, 14:00:13 - DEBUG - auth.service - login with email: muki7@1234
+28.5.2022, 14:00:13 - INFO - User login:  | {"_id":"629200bd96f81b86855bb613","email":"muki7@1234","firstName":"Muki","lastName":"levi"}
+28.5.2022, 14:02:40 - DEBUG - auth.service - signup with email: ori@12345, fullname: ori5 sason5
+28.5.2022, 14:02:40 - DEBUG - auth.route - new account created: {"email":"ori@12345","password":"$2b$10$aKlLj70YV1gKLZQssOrWZeBfQxplLOynFYTafb43v7OwCxlRnQV3O","firstName":"ori5","lastName":"sason5","_id":"6292015096f81b86855bb614"}
+28.5.2022, 14:02:40 - DEBUG - auth.service - login with email: ori@12345
+28.5.2022, 14:02:40 - INFO - User login:  | {"_id":"6292015096f81b86855bb614","email":"ori@12345","firstName":"ori5","lastName":"sason5"}
+28.5.2022, 14:03:24 - DEBUG - auth.service - login with email: ori@12345
+28.5.2022, 14:03:24 - INFO - User login:  | {"_id":"6292015096f81b86855bb614","email":"ori@12345","firstName":"ori5","lastName":"sason5"}
+28.5.2022, 14:03:25 - DEBUG - auth.service - login with email: ori@12345
+28.5.2022, 14:03:26 - INFO - User login:  | {"_id":"6292015096f81b86855bb614","email":"ori@12345","firstName":"ori5","lastName":"sason5"}
+28.5.2022, 14:03:44 - DEBUG - auth.service - login with email: ori@12345
+28.5.2022, 14:03:44 - INFO - User login:  | {"_id":"6292015096f81b86855bb614","email":"ori@12345","firstName":"ori5","lastName":"sason5"}
+28.5.2022, 14:05:33 - DEBUG - auth.service - signup with email: oriori@1234, fullname: ori ori
+28.5.2022, 14:05:33 - DEBUG - auth.route - new account created: {"email":"oriori@1234","password":"$2b$10$YNrYuuzs5vvlkOMMzshB0.6rZJDF52AvHSQ4jpmepNVgWqdUPpKxC","firstName":"ori","lastName":"ori","_id":"629201fd96f81b86855bb615"}
+28.5.2022, 14:05:33 - DEBUG - auth.service - login with email: oriori@1234
+28.5.2022, 14:05:33 - INFO - User login:  | {"_id":"629201fd96f81b86855bb615","email":"oriori@1234","firstName":"ori","lastName":"ori"}
+28.5.2022, 14:07:28 - DEBUG - auth.service - signup with email: ori@1234, fullname: Ori Sason
+28.5.2022, 14:07:28 - DEBUG - auth.route - new account created: {"email":"ori@1234","password":"$2b$10$b6p.tQmnnaSjwXYyEBvSm.TwbMBmdPahBIkwETMow8bvVABsMLyIC","firstName":"Ori","lastName":"Sason","_id":"6292027096f81b86855bb616"}
+28.5.2022, 14:07:28 - DEBUG - auth.service - login with email: ori@1234
+28.5.2022, 14:07:28 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+28.5.2022, 14:07:59 - DEBUG - auth.service - signup with email: alex@1234, fullname: Alex Yakovlev
+28.5.2022, 14:07:59 - DEBUG - auth.route - new account created: {"email":"alex@1234","password":"$2b$10$6WL1jd02HBi7tmPiPJgXCeM/7hFI/Wi50.KHwNR73GptDvpxX.9nG","firstName":"Alex","lastName":"Yakovlev","_id":"6292028f96f81b86855bb617"}
+28.5.2022, 14:07:59 - DEBUG - auth.service - login with email: alex@1234
+28.5.2022, 14:08:00 - INFO - User login:  | {"_id":"6292028f96f81b86855bb617","email":"alex@1234","firstName":"Alex","lastName":"Yakovlev"}
+28.5.2022, 14:08:22 - DEBUG - auth.service - signup with email: vicky@1234, fullname: Vicky Polatov
+28.5.2022, 14:08:22 - DEBUG - auth.route - new account created: {"email":"vicky@1234","password":"$2b$10$FcHIrSRxzjoWrfKXvTQ.kuZum3T6vqglz3vcwCVs6LfWWJZzdlAly","firstName":"Vicky","lastName":"Polatov","_id":"629202a696f81b86855bb618"}
+28.5.2022, 14:08:22 - DEBUG - auth.service - login with email: vicky@1234
+28.5.2022, 14:08:23 - INFO - User login:  | {"_id":"629202a696f81b86855bb618","email":"vicky@1234","firstName":"Vicky","lastName":"Polatov"}
+28.5.2022, 14:08:45 - DEBUG - auth.service - signup with email: michael@1234, fullname: Michael Aharoni
+28.5.2022, 14:08:45 - DEBUG - auth.route - new account created: {"email":"michael@1234","password":"$2b$10$g.4KpIGFsciXFoC3C9VPzuK1Co6/9tmMleMnQZP1eTBOAV5vFMrWS","firstName":"Michael","lastName":"Aharoni","_id":"629202bd96f81b86855bb619"}
+28.5.2022, 14:08:45 - DEBUG - auth.service - login with email: michael@1234
+28.5.2022, 14:08:45 - INFO - User login:  | {"_id":"629202bd96f81b86855bb619","email":"michael@1234","firstName":"Michael","lastName":"Aharoni"}
+28/05/2022, 15:12:29 - DEBUG - auth.service - login with email: ori@1234
+28/05/2022, 15:12:30 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
