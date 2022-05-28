@@ -1,6 +1,12 @@
 const authService = require('./auth.service')
 const logger = require('../../services/logger.service')
 
+module.exports = {
+    login,
+    signup,
+    logout
+}
+
 async function login(req, res) {
     try {
         const user = await authService.login(req.body)
@@ -41,10 +47,4 @@ async function logout(req, res) {
     } catch (err) {
         res.status(500).send({ err: 'Failed to logout' })
     }
-}
-
-module.exports = {
-    login,
-    signup,
-    logout
 }

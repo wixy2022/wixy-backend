@@ -8,6 +8,13 @@ const { error } = require('../../services/logger.service')
 
 const cryptr = new Cryptr(process.env.SECRET1 || 'Secret-Puk-1234')
 
+module.exports = {
+    signup,
+    login,
+    getLoginToken,
+    validateToken
+}
+
 async function login(loggedInUser) {
     const { email, password, isSocial, firstName, lastName, imgUrl } = loggedInUser
     logger.debug(`auth.service - login with email: ${email}`)
@@ -60,16 +67,8 @@ function validateToken(loginToken) {
         const json = cryptr.decrypt(loginToken)
         const loggedinUser = JSON.parse(json)
         return loggedinUser
-
     } catch (err) {
         console.log('Invalid login token')
     }
     return null
-}
-
-module.exports = {
-    signup,
-    login,
-    getLoginToken,
-    validateToken
 }
