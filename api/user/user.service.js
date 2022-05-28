@@ -89,13 +89,16 @@ async function update(user) {
 }
 
 async function add(user) {
+    console.log(user, 'checkURL')
     try {
         // peek only updatable fields!
         const userToAdd = {
             email: user.email,
             password: user.password,
             firstName: user.firstName,
-            lastName: user.lastName
+            lastName: user.lastName,
+            isSocial: user.isSocial,
+            imgUrl: user.imgUrl
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)

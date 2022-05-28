@@ -8,18 +8,31 @@ const { error } = require('../../services/logger.service')
 
 const cryptr = new Cryptr(process.env.SECRET1 || 'Secret-Puk-1234')
 
-async function login(email, password) {
+async function login(loggedInUser) {
+    const { email, password, isSocial, firstName, lastName, imgUrl } = loggedInUser
     logger.debug(`auth.service - login with email: ${email}`)
 
     const user = await userService.getByEmail(email)
     console.log('user', user)
-    if (!user) return Promise.reject('Invalid username or password')
-    const match = await bcrypt.compare(password, user.password)
-    console.log('match', match)
-    if (!match) return Promise.reject('Invalid username or password')
 
-    delete user.password
-    return user
+    if (user) {
+        let match
+        if (password) {
+            match = await bcrypt.compare(password, user.password)
+            console.log('match', match)
+        }
+        if (!match || !password) {
+            if (user.isSocial) return user
+            return Promise.reject('Invalid username or password')
+        }
+        delete user.password
+        return user
+
+    } else if (!user && isSocial) {
+        return userService.add({ email, firstName, lastName, isSocial, imgUrl })
+
+    }
+    else return Promise.reject('Invalid username or password')
 }
 
 async function signup(email, password, firstName, lastName) {

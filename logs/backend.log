@@ -66,3 +66,69 @@
 28.5.2022, 14:08:45 - DEBUG - auth.route - new account created: {"email":"michael@1234","password":"$2b$10$g.4KpIGFsciXFoC3C9VPzuK1Co6/9tmMleMnQZP1eTBOAV5vFMrWS","firstName":"Michael","lastName":"Aharoni","_id":"629202bd96f81b86855bb619"}
 28.5.2022, 14:08:45 - DEBUG - auth.service - login with email: michael@1234
 28.5.2022, 14:08:45 - INFO - User login:  | {"_id":"629202bd96f81b86855bb619","email":"michael@1234","firstName":"Michael","lastName":"Aharoni"}
+28.5.2022, 15:09:46 - DEBUG - auth.service - login with email: ori@1234
+28.5.2022, 15:09:46 - ERROR - Failed to Login Invalid username or password
+28.5.2022, 15:09:48 - DEBUG - auth.service - login with email: ori@1234
+28.5.2022, 15:09:48 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+28.5.2022, 15:10:02 - DEBUG - auth.service - login with email: ori@1234
+28.5.2022, 15:10:02 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+28.5.2022, 21:00:06 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 21:00:07 - ERROR - Failed to Login Invalid username or password
+28.5.2022, 21:06:04 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 21:06:04 - ERROR - Failed to Login Invalid username or password
+28.5.2022, 23:07:06 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:07:08 - ERROR - Failed to Login ReferenceError: isSocial is not defined
+28.5.2022, 23:10:18 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:10:30 - ERROR - Failed to Login ReferenceError: firstName is not defined
+28.5.2022, 23:12:42 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:12:44 - ERROR - Failed to Login ReferenceError: firstName is not defined
+28.5.2022, 23:20:09 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:20:11 - INFO - User login:  | {"email":"vickymenashe@gmail.com","firstName":"Vicky","lastName":"Menashe Polatov","_id":"629283fb27b67cfaa351dd88"}
+28.5.2022, 23:21:49 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:21:49 - ERROR - Failed to Login Error: data and hash arguments required
+28.5.2022, 23:27:02 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:27:04 - ERROR - Failed to Login Error: data and hash arguments required
+28.5.2022, 23:37:00 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:37:00 - ERROR - Failed to Login Error: data and hash arguments required
+28.5.2022, 23:37:09 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:37:09 - ERROR - Failed to Login Error: data and hash arguments required
+28.5.2022, 23:44:00 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:44:02 - ERROR - Failed to Login Invalid username or password
+28.5.2022, 23:51:55 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:51:55 - INFO - User login:  | {"email":"vickymenashe@gmail.com","firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"_id":"62928b6b8860fdced375c3e8"}
+28.5.2022, 23:52:15 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:52:16 - INFO - User login:  | {"_id":"62928b6b8860fdced375c3e8","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":null}
+28.5.2022, 23:54:54 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+28.5.2022, 23:54:54 - INFO - User login:  | {"_id":"62928b6b8860fdced375c3e8","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":null}
+28.5.2022, 23:55:25 - DEBUG - auth.service - login with email: michael@1234
+28.5.2022, 23:55:25 - INFO - User login:  | {"_id":"629202bd96f81b86855bb619","email":"michael@1234","firstName":"Michael","lastName":"Aharoni"}
+29.5.2022, 0:19:47 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:19:48 - INFO - User login:  | {"_id":"62928b6b8860fdced375c3e8","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":null}
+29.5.2022, 0:25:45 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:25:45 - INFO - User login:  | {"_id":"62928b6b8860fdced375c3e8","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":null}
+29.5.2022, 0:30:17 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:30:18 - INFO - User login:  | {"email":"vickymenashe@gmail.com","firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"_id":"6292946a8860fdced375c3e9"}
+29.5.2022, 0:32:46 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:32:48 - INFO - User login:  | {"email":"vickymenashe@gmail.com","firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"_id":"629294ffc5b571a8238d47f4"}
+29.5.2022, 0:36:12 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:36:15 - ERROR - Failed to Login ReferenceError: imgUrl is not defined
+29.5.2022, 0:36:33 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:36:33 - ERROR - Failed to Login ReferenceError: imgUrl is not defined
+29.5.2022, 0:37:53 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:37:55 - INFO - User login:  | {"email":"vickymenashe@gmail.com","firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656365874&hash=AeQViGfNM3Wg63WvH0w","_id":"62929632ea7e17fcf7abc29f"}
+29.5.2022, 0:44:39 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:44:39 - INFO - User login:  | {"_id":"62929632ea7e17fcf7abc29f","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656365874&hash=AeQViGfNM3Wg63WvH0w"}
+29.5.2022, 0:45:06 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:45:06 - INFO - User login:  | {"_id":"62929632ea7e17fcf7abc29f","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656365874&hash=AeQViGfNM3Wg63WvH0w"}
+29.5.2022, 0:52:38 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:52:38 - INFO - User login:  | {"_id":"62929632ea7e17fcf7abc29f","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656365874&hash=AeQViGfNM3Wg63WvH0w"}
+29.5.2022, 0:54:57 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 0:54:57 - INFO - User login:  | {"_id":"62929632ea7e17fcf7abc29f","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656365874&hash=AeQViGfNM3Wg63WvH0w"}
+29.5.2022, 0:56:07 - DEBUG - auth.service - login with email: ori@1234
+29.5.2022, 0:56:07 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+29.5.2022, 1:49:57 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 1:49:59 - INFO - User login:  | {"_id":"62929632ea7e17fcf7abc29f","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656365874&hash=AeQViGfNM3Wg63WvH0w"}
+29.5.2022, 1:53:52 - ERROR - while finding wap 629120385a660f6cae594bb6 | {}
+29.5.2022, 1:53:52 - ERROR - Failed to get wap | {}
+29.5.2022, 1:53:52 - ERROR - while finding wap 629120385a660f6cae594bb6 | {}
+29.5.2022, 1:53:52 - ERROR - Failed to get wap | {}
