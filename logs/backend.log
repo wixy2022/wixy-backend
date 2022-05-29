@@ -1,0 +1,12 @@
+29.5.2022, 2:08:04 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 2:08:06 - INFO - User login:  | {"_id":"62929632ea7e17fcf7abc29f","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656365874&hash=AeQViGfNM3Wg63WvH0w"}
+29.5.2022, 10:20:54 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 10:20:56 - INFO - User login:  | {"email":"vickymenashe@gmail.com","firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs","_id":"62931ed7a22fe59be02d43f1"}
+29.5.2022, 10:36:59 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 10:37:00 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+29.5.2022, 10:45:53 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 10:45:54 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+29.5.2022, 10:52:45 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 10:52:45 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+29.5.2022, 12:50:29 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 12:50:31 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
