@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.284cbec0.css",
+    "main.js": "/static/js/main.d1b38d5c.js",
+    "static/media/Questrial-Regular.ttf": "/static/media/Questrial-Regular.8268e81790f4302669b7.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/AlfaSlabOne-Regular.ttf": "/static/media/AlfaSlabOne-Regular.76486fb5cc170dab15a5.ttf",
+    "index.html": "/index.html",
+    "main.284cbec0.css.map": "/static/css/main.284cbec0.css.map",
+    "main.d1b38d5c.js.map": "/static/js/main.d1b38d5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.284cbec0.css",
+    "static/js/main.d1b38d5c.js"
+  ]
+}
