@@ -20,7 +20,6 @@ async function login(loggedInUser) {
     logger.debug(`auth.service - login with email: ${email}`)
 
     const user = await userService.getByEmail(email)
-    console.log('user', user)
 
     if (user) {
         let match

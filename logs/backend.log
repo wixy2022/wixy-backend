@@ -10,3 +10,253 @@
 29.5.2022, 10:52:45 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
 29.5.2022, 12:50:29 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
 29.5.2022, 12:50:31 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+29.5.2022, 20:46:00 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 20:46:02 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+29.5.2022, 21:04:05 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+29.5.2022, 21:04:06 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:27:04 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:27:05 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:27:08 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:27:08 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:27:38 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:27:38 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:31:57 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:31:58 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:34:29 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:34:30 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:37:13 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:37:13 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:37:18 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:37:18 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:37:23 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:37:23 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:41:17 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:41:17 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:41:21 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:41:21 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:41:58 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:41:59 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:42:06 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:42:06 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:44:57 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:44:58 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:45:03 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:45:03 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:50:05 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:50:05 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:50:16 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:50:16 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 0:53:40 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 0:53:40 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 1:06:51 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 1:06:51 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 1:06:59 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 1:06:59 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 1:23:54 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 1:23:55 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 1:24:04 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 1:24:05 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 1:56:36 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 1:56:36 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 1:56:43 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 1:56:44 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 1:56:47 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 1:56:47 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 1:59:22 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 1:59:23 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 1:59:26 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 1:59:27 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 9:08:24 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 9:08:26 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 9:08:32 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 9:08:33 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 9:08:36 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 9:08:36 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 9:08:42 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 9:08:42 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 9:08:57 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 9:08:57 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 9:27:31 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 9:27:31 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 9:45:30 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 9:45:31 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 10:27:30 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 10:27:31 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 10:40:18 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 10:40:18 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 10:51:18 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 10:51:18 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 10:53:17 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 10:53:17 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 10:53:34 - DEBUG - auth.service - login with email: puki@1234
+30.5.2022, 10:53:35 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 10:53:41 - DEBUG - auth.service - login with email: puki@1234
+30.5.2022, 10:53:41 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 10:53:46 - DEBUG - auth.service - login with email: puki@1234
+30.5.2022, 10:53:46 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 10:54:17 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 10:54:17 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 10:55:50 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 10:55:51 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 10:57:35 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 10:57:35 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 10:58:52 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 10:58:52 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 10:59:44 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 10:59:44 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 11:00:30 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 11:00:31 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 11:07:52 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 11:07:53 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 11:09:33 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 11:09:34 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 11:28:53 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 11:28:54 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 11:32:49 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 11:32:49 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 11:34:59 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 11:35:00 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 11:38:42 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 11:38:42 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 11:39:26 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 11:39:26 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 11:39:38 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 11:39:38 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 14:27:53 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 14:27:54 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 14:28:19 - DEBUG - auth.service - login with email: alex@1234
+30.5.2022, 14:28:19 - INFO - User login:  | {"_id":"6292028f96f81b86855bb617","email":"alex@1234","firstName":"Alex","lastName":"Yakovlev"}
+30.5.2022, 14:29:02 - DEBUG - auth.service - login with email: alex@1234
+30.5.2022, 14:29:03 - INFO - User login:  | {"_id":"6292028f96f81b86855bb617","email":"alex@1234","firstName":"Alex","lastName":"Yakovlev"}
+30.5.2022, 14:30:19 - DEBUG - auth.service - login with email: alex@1234
+30.5.2022, 14:30:20 - INFO - User login:  | {"_id":"6292028f96f81b86855bb617","email":"alex@1234","firstName":"Alex","lastName":"Yakovlev"}
+30.5.2022, 14:31:19 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 14:31:19 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 14:31:37 - DEBUG - auth.service - login with email: alex@1234
+30.5.2022, 14:31:37 - INFO - User login:  | {"_id":"6292028f96f81b86855bb617","email":"alex@1234","firstName":"Alex","lastName":"Yakovlev"}
+30.5.2022, 14:32:12 - DEBUG - auth.service - login with email: ori@1234
+30.5.2022, 14:32:12 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+30.5.2022, 14:34:22 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 14:34:22 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 14:34:35 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 14:34:35 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 14:55:43 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+30.5.2022, 14:55:43 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+30.5.2022, 16:02:52 - ERROR - while finding wap 62911fb25a660f6cae594bb4 | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:02:52 - ERROR - Failed to get wap | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:02:56 - ERROR - while finding wap 62911fb25a660f6cae594bb4 | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:02:56 - ERROR - Failed to get wap | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:02:56 - ERROR - while finding wap 62911fb25a660f6cae594bb4 | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:02:56 - ERROR - Failed to get wap | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:02:59 - ERROR - while finding wap 629294fbf04ad0403c9fe2ee | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:02:59 - ERROR - Failed to get wap | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:03:12 - ERROR - while finding wap 62911fb25a660f6cae594bb4 | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:03:12 - ERROR - Failed to get wap | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:03:13 - ERROR - while finding wap 62911fb25a660f6cae594bb4 | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 16:03:13 - ERROR - Failed to get wap | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-pr0qht-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000043","commonWireVersion":13}}
+30.5.2022, 17:47:27 - DEBUG - auth.service - login with email: 1321
+30.5.2022, 17:47:28 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:47:29 - DEBUG - auth.service - login with email: 1321
+30.5.2022, 17:47:29 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:47:33 - DEBUG - auth.service - login with email: 1321
+30.5.2022, 17:47:34 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:47:40 - DEBUG - auth.service - login with email: 1321
+30.5.2022, 17:47:40 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:47:43 - DEBUG - auth.service - login with email: 1321
+30.5.2022, 17:47:43 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:47:46 - DEBUG - auth.service - login with email: 1321
+30.5.2022, 17:47:46 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:48:25 - DEBUG - auth.service - login with email: 
+30.5.2022, 17:48:25 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:48:28 - DEBUG - auth.service - login with email: dfdsfds
+30.5.2022, 17:48:28 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:48:30 - DEBUG - auth.service - login with email: dfdsfds
+30.5.2022, 17:48:30 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:48:33 - DEBUG - auth.service - login with email: dfdsfds
+30.5.2022, 17:48:33 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:48:34 - DEBUG - auth.service - login with email: dfdsfds
+30.5.2022, 17:48:34 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:49:25 - DEBUG - auth.service - login with email: dfdsfds
+30.5.2022, 17:49:25 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:49:52 - DEBUG - auth.service - login with email: dfdsfds
+30.5.2022, 17:49:52 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:51:37 - DEBUG - auth.service - login with email: 1213213
+30.5.2022, 17:51:37 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 17:51:43 - DEBUG - auth.service - login with email: 111
+30.5.2022, 17:51:43 - ERROR - Failed to Login Invalid username or password
+30.5.2022, 23:59:37 - DEBUG - auth.service - signup with email: dani@1234, fullname: Dani Shovevani
+30.5.2022, 23:59:37 - DEBUG - auth.route - new account created: {"email":"dani@1234","password":"$2b$10$BAnd9Uk2ObQ6cYAgPHnGfO2.BsZQvsNWyeod9Sxgrv4H74JRbx2ri","firstName":"Dani","lastName":"Shovevani","_id":"629530390a80146535b4b68d"}
+30.5.2022, 23:59:37 - DEBUG - auth.service - login with email: undefined
+30.5.2022, 23:59:37 - ERROR - Failed to signup Invalid username or password
+30.5.2022, 23:59:41 - ERROR - email is already being used
+30.5.2022, 23:59:41 - ERROR - Failed to signup undefined
+31.5.2022, 0:00:14 - ERROR - email is already being used
+31.5.2022, 0:00:14 - ERROR - Failed to signup undefined
+31.5.2022, 0:01:08 - DEBUG - auth.service - signup with email: daniela@1234, fullname: Dani Shovevani
+31.5.2022, 0:01:08 - DEBUG - auth.route - new account created: {"email":"daniela@1234","password":"$2b$10$ozc9roOwnbUZxyo4KzsGZu6FAKrWpLVA3iPOoH2T9ALod1xAuRNJe","firstName":"Dani","lastName":"Shovevani","_id":"629530940a80146535b4b68e"}
+31.5.2022, 0:01:08 - DEBUG - auth.service - login with email: undefined
+31.5.2022, 0:01:08 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 0:08:13 - DEBUG - auth.service - signup with email: ro@1234, fullname: roki Levi
+31.5.2022, 0:08:13 - DEBUG - auth.route - new account created: {"email":"ro@1234","password":"$2b$10$RZV3Oj8WYQaiEjsJUcahq.wyi8Juroay5yDUlYy1xT/PH.7HH67P2","firstName":"roki","lastName":"Levi","_id":"6295323d0a80146535b4b68f"}
+31.5.2022, 0:08:13 - DEBUG - auth.service - login with email: undefined
+31.5.2022, 0:08:13 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 0:09:20 - DEBUG - auth.service - signup with email: rok@1234, fullname: roki Levi
+31.5.2022, 0:09:20 - DEBUG - auth.route - new account created: {"email":"rok@1234","password":"$2b$10$CzAiks9dhrUEl9VWOLzA8Oueg10WoQYJQYkXHs3Hy0r4/IFlqCcYe","firstName":"roki","lastName":"Levi","_id":"629532800a80146535b4b690"}
+31.5.2022, 0:09:20 - DEBUG - auth.service - login with email: undefined
+31.5.2022, 0:09:20 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 0:11:31 - DEBUG - auth.service - signup with email: rr@1234, fullname: roki p
+31.5.2022, 0:11:32 - DEBUG - auth.route - new account created: {"email":"rr@1234","password":"$2b$10$BEzhhx8IBq7SktoacS2SzeW51NTCg8.nsQGw/GSjO5sqtV4/gD2/u","firstName":"roki","lastName":"p","_id":"629533030a80146535b4b691"}
+31.5.2022, 0:11:32 - DEBUG - auth.service - login with email: undefined
+31.5.2022, 0:11:32 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 0:39:17 - DEBUG - auth.service - signup with email: artur@1234, fullname: artur read
+31.5.2022, 0:39:18 - DEBUG - auth.route - new account created: {"email":"artur@1234","password":"$2b$10$vFP9g//jHwx416N.dd/Ch.3OMhmOXeEYnfUBClENIpFj6H2bxrvpS","firstName":"artur","lastName":"read","_id":"629539860a80146535b4b692"}
+31.5.2022, 0:39:18 - DEBUG - auth.service - login with email: undefined
+31.5.2022, 0:39:18 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 0:53:45 - DEBUG - auth.service - signup with email: artura@1234, fullname: artura read
+31.5.2022, 0:53:45 - DEBUG - auth.route - new account created: {"email":"artura@1234","password":"$2b$10$Au0PzV..pcvkSLO2eibI.ee5EhZpqQEAneRniUicsAoor4injU7ia","firstName":"artura","lastName":"read","_id":"62953ce90a80146535b4b693"}
+31.5.2022, 0:53:45 - DEBUG - auth.service - login with email: undefined
+31.5.2022, 0:53:46 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 0:55:32 - DEBUG - auth.service - signup with email: artura@12345, fullname: arturaa read
+31.5.2022, 0:55:32 - DEBUG - auth.route - new account created: {"email":"artura@12345","password":"$2b$10$iO6duRMWVBY7oBYvKbZNK.hmISygWyjXA/s5jj5poxK1EyztEa5..","firstName":"arturaa","lastName":"read","_id":"62953d540a80146535b4b694"}
+31.5.2022, 0:55:32 - DEBUG - auth.service - login with email: undefined
+31.5.2022, 0:55:32 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 0:57:47 - DEBUG - auth.service - signup with email: artura@123456, fullname: arturaa read
+31.5.2022, 0:57:47 - DEBUG - auth.route - new account created: {"email":"artura@123456","password":"$2b$10$jn6zVebXiECZVBxtqHmwHuIbh27Ts6ywfZlhAnMYRmUOo9w3zrJi2","firstName":"arturaa","lastName":"read","_id":"62953ddb0a80146535b4b695"}
+31.5.2022, 0:57:47 - DEBUG - auth.service - login with email: undefined
+31.5.2022, 0:57:47 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 0:58:43 - DEBUG - auth.service - signup with email: artura@1234567, fullname: arturaa read
+31.5.2022, 0:58:43 - DEBUG - auth.route - new account created: {"email":"artura@1234567","password":"$2b$10$fXoYtpwyO7f/XvMBX4hIP.0atqyzcxy9mXGi5MJIaFCttziod0Ooe","firstName":"arturaa","lastName":"read","_id":"62953e130a80146535b4b696"}
+31.5.2022, 0:58:43 - DEBUG - auth.service - login with email: undefined
+31.5.2022, 0:58:44 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 1:01:10 - DEBUG - auth.service - signup with email: artura@12345678, fullname: arturaa read
+31.5.2022, 1:01:11 - DEBUG - auth.route - new account created: {"email":"artura@12345678","password":"$2b$10$w97SU9tqXtBySFr2nZDPyexmwwXXu6YBLhbws1AU8lKzqm7xOsn3e","firstName":"arturaa","lastName":"read","isSocial":false,"imgUrl":null,"_id":"62953ea702e06e85bb66bd77"}
+31.5.2022, 1:01:11 - DEBUG - auth.service - login with email: artura@12345678
+31.5.2022, 1:01:11 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 1:02:47 - ERROR - email is already being used
+31.5.2022, 1:02:47 - ERROR - Failed to signup undefined
+31.5.2022, 1:03:22 - DEBUG - auth.service - signup with email: artura@123456789, fullname: arturaa read
+31.5.2022, 1:03:22 - DEBUG - auth.route - new account created: {"email":"artura@123456789","password":"$2b$10$5iV8ZDOaognVK6b3WQqVDOGaTUoQ9Xvkch3jt.MxOSTDy9HDOsV/.","firstName":"arturaa","lastName":"read","isSocial":false,"imgUrl":null,"_id":"62953f2a22df369f93060b1a"}
+31.5.2022, 1:03:22 - DEBUG - auth.service - login with email: artura@123456789
+31.5.2022, 1:03:23 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 1:08:17 - DEBUG - auth.service - signup with email: artura@1234567891, fullname: arturaa read
+31.5.2022, 1:08:17 - DEBUG - auth.route - new account created: {"email":"artura@1234567891","password":"$2b$10$r7Wn8MIxAuupLFPodMp9X./89aZdHAaZGYzbU56xeXD5BoJ/A18HK","firstName":"arturaa","lastName":"read","isSocial":false,"imgUrl":null,"_id":"629540515c6760d84f4b26dd"}
+31.5.2022, 1:08:17 - DEBUG - auth.service - login with email: artura@1234567891
+31.5.2022, 1:08:18 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 1:09:24 - ERROR - email is already being used
+31.5.2022, 1:09:24 - ERROR - Failed to signup undefined
+31.5.2022, 1:11:33 - DEBUG - auth.service - signup with email: ori@1234aaa, fullname: oriaaa aaa
+31.5.2022, 1:11:34 - DEBUG - auth.route - new account created: {"email":"ori@1234aaa","password":"$2b$10$ofNdKa6x2mgGtIvBqT.QcO3jiQeF3NAlA8HilnqoHSth/Wch/zpnK","firstName":"oriaaa","lastName":"aaa","isSocial":false,"imgUrl":null,"_id":"629541155c6760d84f4b26de"}
+31.5.2022, 1:11:34 - DEBUG - auth.service - login with email: ori@1234aaa
+31.5.2022, 1:11:34 - ERROR - Failed to signup Invalid username or password
+31.5.2022, 1:13:40 - ERROR - email is already being used
+31.5.2022, 1:13:41 - ERROR - Failed to signup undefined
+31.5.2022, 1:13:56 - DEBUG - auth.service - signup with email: ori@1234aaa111, fullname: oriaaa aaa
+31.5.2022, 1:13:57 - DEBUG - auth.route - new account created: {"email":"ori@1234aaa111","password":"$2b$10$l0NoNOA6SvYbSQTWd3Ky9.f1E2SCNpuF1kbS0f3Akwk4ETg2sx0ca","firstName":"oriaaa","lastName":"aaa","isSocial":false,"imgUrl":null,"_id":"629541a4c57ef329280854d0"}
+31.5.2022, 1:13:57 - DEBUG - auth.service - login with email: ori@1234aaa111
+31.5.2022, 1:13:57 - INFO - User login:  | {"_id":"629541a4c57ef329280854d0","email":"ori@1234aaa111","firstName":"oriaaa","lastName":"aaa","isSocial":false,"imgUrl":null}
+31.5.2022, 1:18:03 - DEBUG - auth.service - login with email: ori@1234
+31.5.2022, 1:18:04 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+31.5.2022, 1:28:55 - DEBUG - auth.service - login with email: ori@1234
+31.5.2022, 1:28:55 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
+31.5.2022, 1:29:17 - DEBUG - auth.service - login with email: ori@1234
+31.5.2022, 1:29:17 - INFO - User login:  | {"_id":"6292027096f81b86855bb616","email":"ori@1234","firstName":"Ori","lastName":"Sason"}
