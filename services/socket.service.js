@@ -30,7 +30,7 @@ function setupSocketAPI(http) {
             // gIo.emit('chat addMsg', msg)
             // emits only to sockets in the same room
 
-            // wapService.updateWap(socket.mywapId, wap)
+            wapService.updateWap(socket.mywapId, wap)
 
             // socket.broadcast.to(socket.mywapId).emit('wap changed', wap)
             // gIo.to(socket.mywapId).emit('wap changed', wap)
