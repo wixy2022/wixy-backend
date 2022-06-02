@@ -7,8 +7,9 @@ module.exports = {
     getById,
     add,
     update,
-    AddToChat,
+    // AddToChat,
     remove,
+    updateWap
 }
 
 async function query(filterBy) {
@@ -80,25 +81,40 @@ async function update(wap) {
     }
 }
 
-async function AddToChat(wapId, msg) {
+async function updateWap(wapId, wap) {
     try {
+        if (!wapId) return // fix - empty editor wapId
         const collection = await dbService.getCollection('wap')
         const wap = await collection.findOne({ _id: ObjectId(wapId) })
+        await collection.updateOne({ _id: wapId }, { $set: { ...wap } })
+
         const chat = wap.chat ? [...wap.chat, msg] : [msg]
 
-        collection.updateOne(
-            { _id: ObjectId(wapId) },
-            {
-                $set: {
-                    chat
-                }
-            }
-        )
     } catch (err) {
-        console.log(`ERROR: cannot updateChat of wap ${wap._id}`)
+        console.log(`ERROR: cannot updateWap ${wap._id}`)
         throw err
     }
 }
+
+// async function AddToChat(wapId, msg) {
+//     try {
+//         const collection = await dbService.getCollection('wap')
+//         const wap = await collection.findOne({ _id: ObjectId(wapId) })
+//         const chat = wap.chat ? [...wap.chat, msg] : [msg]
+
+//         collection.updateOne(
+//             { _id: ObjectId(wapId) },
+//             {
+//                 $set: {
+//                     chat
+//                 }
+//             }
+//         )
+//     } catch (err) {
+//         console.log(`ERROR: cannot updateChat of wap ${wap._id}`)
+//         throw err
+//     }
+// }
 
 async function remove(wapId) {
     try {

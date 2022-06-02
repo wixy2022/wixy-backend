@@ -15,26 +15,26 @@ function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('chat topic', topic => {
-            if (socket.myTopic === topic) return;
-            if (socket.myTopic) {
-                socket.leave(socket.myTopic)
-                logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
+        socket.on('wap id', wapId => {
+            if (socket.myWap === wapId) return
+            if (socket.mywapId) {
+                socket.leave(socket.mywapId)
+                logger.info(`Socket is leaving wapId ${socket.mywapId} [id: ${socket.id}]`)
             }
-            socket.join(topic)
-            socket.myTopic = topic
+            socket.join(wapId)
+            socket.mywapId = wapId
         })
-        socket.on('chat newMsg', msg => {
-            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
+        socket.on('edit wap', wap => {
+            logger.info(`Wap was edit by socket [id: ${socket.id}], emitting to wapId ${socket.mywapId}`)
             // emits to all sockets:
             // gIo.emit('chat addMsg', msg)
             // emits only to sockets in the same room
-            wapService.AddToChat(socket.myTopic, msg)
-            gIo.to(socket.myTopic).emit('chat addMsg', msg)
-        })
-        socket.on('chat userTypes', typing => {
-            // gIo.to(socket.myTopic).emit('chat userTypes', typing)
-            broadcast({ type: 'chat userTypes', data: typing, room: socket.myTopic, userId: socket.userId, socketId: socket.id })
+
+            // wapService.updateWap(socket.mywapId, wap)
+
+            // socket.broadcast.to(socket.mywapId).emit('wap changed', wap)
+            // gIo.to(socket.mywapId).emit('wap changed', wap)
+            socket.broadcast.emit('wap changed', wap)
         })
         socket.on('user-watch', userId => {
             logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
