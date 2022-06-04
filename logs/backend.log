@@ -2023,3 +2023,1575 @@
 3.6.2022, 0:51:15 - INFO - Wap was edit by socket [id: xx_CQy4k4P6pfz5vAABb], emitting to wapId null
 3.6.2022, 0:51:21 - INFO - Wap was edit by socket [id: xx_CQy4k4P6pfz5vAABb], emitting to wapId null
 3.6.2022, 0:57:39 - INFO - Wap was edit by socket [id: xx_CQy4k4P6pfz5vAABb], emitting to wapId null
+4.6.2022, 15:58:24 - INFO - New connected socket [id: WvDTpOz0Dg5p9zlGAAAC]
+4.6.2022, 15:58:24 - INFO - New connected socket [id: NZEKQ-fYI6CrP2ZYAAAD]
+4.6.2022, 15:59:23 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 15:59:25 - INFO - New connected socket [id: -JjA0LN9i7tRY0qIAAAF]
+4.6.2022, 15:59:42 - ERROR - while finding wap undefined | {}
+4.6.2022, 15:59:42 - ERROR - Failed to get wap | {}
+4.6.2022, 15:59:42 - ERROR - while finding wap undefined | {}
+4.6.2022, 15:59:42 - ERROR - Failed to get wap | {}
+4.6.2022, 15:59:43 - ERROR - Failed to update wap | {}
+4.6.2022, 15:59:43 - ERROR - Failed to update wap | {}
+4.6.2022, 16:05:06 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:05:06 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:05:10 - INFO - New connected socket [id: r3tChRxaaBcpARr6AAAH]
+4.6.2022, 16:05:13 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:05:13 - ERROR - Failed to get wap | {}
+4.6.2022, 16:05:13 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:05:13 - ERROR - Failed to get wap | {}
+4.6.2022, 16:05:13 - ERROR - Failed to update wap | {}
+4.6.2022, 16:05:14 - ERROR - Failed to update wap | {}
+4.6.2022, 16:05:16 - INFO - New connected socket [id: l2UjjGJBpxiY3YN_AAAJ]
+4.6.2022, 16:13:00 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:13:06 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:13:07 - INFO - New connected socket [id: 20nav4VNLFGLhEYyAAAL]
+4.6.2022, 16:13:09 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:13:09 - ERROR - Failed to get wap | {}
+4.6.2022, 16:13:09 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:13:09 - ERROR - Failed to get wap | {}
+4.6.2022, 16:13:10 - INFO - New connected socket [id: rocs7RoYqfIPEx_1AAAN]
+4.6.2022, 16:13:28 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:13:30 - INFO - New connected socket [id: SUTP0fbirkyt7rkgAAAP]
+4.6.2022, 16:13:35 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:13:35 - ERROR - Failed to get wap | {}
+4.6.2022, 16:13:35 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:13:35 - ERROR - Failed to get wap | {}
+4.6.2022, 16:14:53 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:14:54 - INFO - New connected socket [id: XI5buaSqKINj56eBAAAR]
+4.6.2022, 16:14:55 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:14:55 - ERROR - Failed to get wap | {}
+4.6.2022, 16:14:56 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:14:56 - ERROR - Failed to get wap | {}
+4.6.2022, 16:15:08 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:15:09 - INFO - New connected socket [id: 6DGkKZuF3S5fu6-EAAAT]
+4.6.2022, 16:15:15 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:15:15 - ERROR - Failed to get wap | {}
+4.6.2022, 16:15:16 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:15:16 - ERROR - Failed to get wap | {}
+4.6.2022, 16:16:06 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:16:06 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:16:08 - INFO - New connected socket [id: YOvcLSTA1GLgQy43AAAV]
+4.6.2022, 16:16:10 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:16:10 - ERROR - Failed to get wap | {}
+4.6.2022, 16:16:10 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:16:10 - ERROR - Failed to get wap | {}
+4.6.2022, 16:16:11 - INFO - New connected socket [id: d44mfKiSMJgl9dz7AAAX]
+4.6.2022, 16:16:13 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:16:15 - INFO - New connected socket [id: 0MX__dUhP-1L2t3KAAAZ]
+4.6.2022, 16:16:19 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:16:19 - ERROR - Failed to get wap | {}
+4.6.2022, 16:16:19 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:16:19 - ERROR - Failed to get wap | {}
+4.6.2022, 16:17:00 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:17:01 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:17:02 - INFO - New connected socket [id: BQD3oit2ZjgYpc8xAAAb]
+4.6.2022, 16:17:04 - INFO - New connected socket [id: ZvjoDnlC3GEGcpDWAAAd]
+4.6.2022, 16:17:06 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:17:06 - ERROR - Failed to get wap | {}
+4.6.2022, 16:17:06 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:17:06 - ERROR - Failed to get wap | {}
+4.6.2022, 16:18:01 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:18:05 - INFO - New connected socket [id: mi3x8_sBTqFSacc7AAAf]
+4.6.2022, 16:18:11 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:18:11 - ERROR - Failed to get wap | {}
+4.6.2022, 16:18:11 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:18:11 - ERROR - Failed to get wap | {}
+4.6.2022, 16:20:26 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:20:27 - INFO - New connected socket [id: 8OY3v60jBlaXh6avAAAh]
+4.6.2022, 16:20:31 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:20:31 - ERROR - Failed to get wap | {}
+4.6.2022, 16:20:31 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:20:31 - ERROR - Failed to get wap | {}
+4.6.2022, 16:21:25 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:21:26 - INFO - New connected socket [id: _0S7XoODMf8PAk_VAAAj]
+4.6.2022, 16:21:37 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:21:37 - ERROR - Failed to get wap | {}
+4.6.2022, 16:21:37 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:21:37 - ERROR - Failed to get wap | {}
+4.6.2022, 16:22:17 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:22:18 - INFO - New connected socket [id: KwIkh2ZQ9s_s8-jrAAAl]
+4.6.2022, 16:22:22 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:22:22 - ERROR - Failed to get wap | {}
+4.6.2022, 16:22:23 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:22:23 - ERROR - Failed to get wap | {}
+4.6.2022, 16:23:49 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:23:50 - INFO - New connected socket [id: 49P4Ky3lOLwAXMajAAAn]
+4.6.2022, 16:23:53 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:23:53 - ERROR - Failed to get wap | {}
+4.6.2022, 16:23:54 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:23:54 - ERROR - Failed to get wap | {}
+4.6.2022, 16:24:38 - INFO - New connected socket [id: 2x79P6xzrNjHbZODAAAC]
+4.6.2022, 16:24:38 - INFO - New connected socket [id: QjCefJu-dm3SgtvLAAAD]
+4.6.2022, 16:24:55 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:24:57 - INFO - New connected socket [id: v8k5sVPzUiisQkyYAAAF]
+4.6.2022, 16:25:01 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:25:01 - ERROR - Failed to get wap | {}
+4.6.2022, 16:25:01 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:25:01 - ERROR - Failed to get wap | {}
+4.6.2022, 16:26:34 - INFO - New connected socket [id: SDH1R6qkvGOjb63fAAAB]
+4.6.2022, 16:26:34 - INFO - New connected socket [id: Sy9ZeD2CipIUGPY3AAAD]
+4.6.2022, 16:27:04 - INFO - New connected socket [id: N_ZdcTqf7jGzvybZAAAC]
+4.6.2022, 16:27:04 - INFO - New connected socket [id: 6ns4W0pDit3xwfDkAAAD]
+4.6.2022, 16:27:20 - INFO - New connected socket [id: qRS7_dx2jLiV1iazAAAB]
+4.6.2022, 16:27:24 - INFO - New connected socket [id: zKlaEnSe9A9qepQrAAAD]
+4.6.2022, 16:27:29 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:27:33 - INFO - New connected socket [id: 1sxhTQAduDE3egyBAAAF]
+4.6.2022, 16:27:37 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:27:37 - ERROR - Failed to get wap | {}
+4.6.2022, 16:27:38 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:27:38 - ERROR - Failed to get wap | {}
+4.6.2022, 16:28:42 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:28:42 - ERROR - Failed to get wap | {}
+4.6.2022, 16:28:43 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:28:44 - ERROR - Failed to get wap | {}
+4.6.2022, 16:28:48 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:28:51 - INFO - New connected socket [id: C861Y_UYjxaOqH2WAAAH]
+4.6.2022, 16:28:56 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:28:56 - ERROR - Failed to get wap | {}
+4.6.2022, 16:28:57 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:28:57 - ERROR - Failed to get wap | {}
+4.6.2022, 16:32:00 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:32:00 - ERROR - Failed to get wap | {}
+4.6.2022, 16:32:00 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:32:00 - ERROR - Failed to get wap | {}
+4.6.2022, 16:32:39 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:32:39 - ERROR - Failed to get wap | {}
+4.6.2022, 16:32:39 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:32:39 - ERROR - Failed to get wap | {}
+4.6.2022, 16:32:42 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:32:44 - INFO - New connected socket [id: 6iWxRBvLB3oIBOpuAAAJ]
+4.6.2022, 16:32:57 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:32:57 - ERROR - Failed to get wap | {}
+4.6.2022, 16:32:57 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:32:57 - ERROR - Failed to get wap | {}
+4.6.2022, 16:34:46 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:34:50 - INFO - New connected socket [id: TtyDYQvACPpMOdHmAAAL]
+4.6.2022, 16:34:53 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:34:53 - ERROR - Failed to get wap | {}
+4.6.2022, 16:34:54 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:34:54 - ERROR - Failed to get wap | {}
+4.6.2022, 16:36:59 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:37:09 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:37:52 - INFO - New connected socket [id: wJzt0V5Vxqq5TNIYAAAN]
+4.6.2022, 16:37:53 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:37:53 - ERROR - Failed to get wap | {}
+4.6.2022, 16:37:54 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:37:54 - ERROR - Failed to get wap | {}
+4.6.2022, 16:38:08 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:38:12 - INFO - New connected socket [id: A-ZNwaB316kG5t8PAAAP]
+4.6.2022, 16:38:18 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:38:18 - ERROR - Failed to get wap | {}
+4.6.2022, 16:38:18 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:38:18 - ERROR - Failed to get wap | {}
+4.6.2022, 16:38:51 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:38:55 - INFO - New connected socket [id: hCV5IaALjMKQpRqUAAAR]
+4.6.2022, 16:39:02 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:39:02 - ERROR - Failed to get wap | {}
+4.6.2022, 16:39:02 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:39:02 - ERROR - Failed to get wap | {}
+4.6.2022, 16:40:06 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:40:10 - INFO - New connected socket [id: T1pyx74-tZVlQy0qAAAT]
+4.6.2022, 16:40:34 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:40:37 - INFO - New connected socket [id: VotcyRHGm1Cuw1F7AAAV]
+4.6.2022, 16:41:33 - ERROR - while finding wap 629b6076080069f6d2dc01f0 | {}
+4.6.2022, 16:41:33 - ERROR - Failed to get wap | {}
+4.6.2022, 16:41:33 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:41:33 - ERROR - Failed to get wap | {}
+4.6.2022, 16:41:34 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:41:34 - ERROR - Failed to get wap | {}
+4.6.2022, 16:41:41 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:41:44 - INFO - New connected socket [id: nI8nD_aEMEw4CUIxAAAX]
+4.6.2022, 16:41:48 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:41:48 - ERROR - Failed to get wap | {}
+4.6.2022, 16:41:48 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:41:48 - ERROR - Failed to get wap | {}
+4.6.2022, 16:42:19 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:42:19 - ERROR - Failed to get wap | {}
+4.6.2022, 16:42:19 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:42:19 - ERROR - Failed to get wap | {}
+4.6.2022, 16:42:21 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:42:23 - INFO - New connected socket [id: L2ofpgFt5u0cpMt1AAAZ]
+4.6.2022, 16:42:27 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:42:27 - ERROR - Failed to get wap | {}
+4.6.2022, 16:42:27 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:42:27 - ERROR - Failed to get wap | {}
+4.6.2022, 16:43:36 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:43:40 - INFO - New connected socket [id: FxTxxqxAgqiRzwNMAAAc]
+4.6.2022, 16:43:44 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:43:44 - ERROR - Failed to get wap | {}
+4.6.2022, 16:43:45 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:43:45 - ERROR - Failed to get wap | {}
+4.6.2022, 16:46:33 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:46:36 - INFO - New connected socket [id: -8ejXe_ICTxrawSgAAAe]
+4.6.2022, 16:46:49 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:46:49 - ERROR - Failed to get wap | {}
+4.6.2022, 16:46:49 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:46:49 - ERROR - Failed to get wap | {}
+4.6.2022, 16:47:00 - INFO - Wap was edit by socket [id: -8ejXe_ICTxrawSgAAAe], emitting to wapId null
+4.6.2022, 16:47:05 - INFO - Wap was edit by socket [id: -8ejXe_ICTxrawSgAAAe], emitting to wapId null
+4.6.2022, 16:47:06 - INFO - Wap was edit by socket [id: -8ejXe_ICTxrawSgAAAe], emitting to wapId null
+4.6.2022, 16:47:14 - INFO - Wap was edit by socket [id: -8ejXe_ICTxrawSgAAAe], emitting to wapId null
+4.6.2022, 16:47:14 - INFO - Wap was edit by socket [id: -8ejXe_ICTxrawSgAAAe], emitting to wapId null
+4.6.2022, 16:47:28 - INFO - Wap was edit by socket [id: -8ejXe_ICTxrawSgAAAe], emitting to wapId null
+4.6.2022, 16:47:41 - INFO - Wap was edit by socket [id: -8ejXe_ICTxrawSgAAAe], emitting to wapId null
+4.6.2022, 16:49:22 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:49:22 - ERROR - Failed to get wap | {}
+4.6.2022, 16:49:22 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:49:22 - ERROR - Failed to get wap | {}
+4.6.2022, 16:49:31 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:49:31 - ERROR - Failed to get wap | {}
+4.6.2022, 16:49:31 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:49:31 - ERROR - Failed to get wap | {}
+4.6.2022, 16:49:42 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:49:42 - ERROR - Failed to get wap | {}
+4.6.2022, 16:49:42 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:49:42 - ERROR - Failed to get wap | {}
+4.6.2022, 16:50:21 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:50:21 - ERROR - Failed to get wap | {}
+4.6.2022, 16:50:21 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:50:21 - ERROR - Failed to get wap | {}
+4.6.2022, 16:50:31 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 16:50:33 - INFO - New connected socket [id: AFFgmXheQl4Wv1wPAAAg]
+4.6.2022, 16:50:39 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:50:39 - ERROR - Failed to get wap | {}
+4.6.2022, 16:50:39 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:50:39 - ERROR - Failed to get wap | {}
+4.6.2022, 16:51:11 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:51:11 - ERROR - Failed to get wap | {}
+4.6.2022, 16:51:11 - ERROR - while finding wap undefined | {}
+4.6.2022, 16:51:11 - ERROR - Failed to get wap | {}
+4.6.2022, 17:04:05 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 17:04:11 - INFO - New connected socket [id: uOwA8Jq1FqFAA_GQAAAi]
+4.6.2022, 17:05:27 - ERROR - while finding wap undefined | {}
+4.6.2022, 17:05:27 - ERROR - Failed to get wap | {}
+4.6.2022, 17:05:27 - ERROR - while finding wap undefined | {}
+4.6.2022, 17:05:27 - ERROR - Failed to get wap | {}
+4.6.2022, 17:12:19 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 17:12:31 - INFO - New connected socket [id: fzyUVRPRtJ9iD2B_AAAk]
+4.6.2022, 17:12:42 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 17:12:43 - INFO - New connected socket [id: 45H7szN7PGz0rp7QAAAm]
+4.6.2022, 17:13:01 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 17:13:04 - INFO - New connected socket [id: juCBIcJsRfZMbm0ZAAAo]
+4.6.2022, 17:20:58 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 17:21:04 - INFO - New connected socket [id: H1IVQ0BImw6VKgvgAAAq]
+4.6.2022, 17:21:36 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 17:21:38 - INFO - New connected socket [id: kq_mxf2_qlVQwWBaAAAs]
+4.6.2022, 17:30:06 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 17:30:09 - INFO - New connected socket [id: iXg3i02IjLPXdBJ7AAAu]
+4.6.2022, 17:30:32 - INFO - Wap was edit by socket [id: iXg3i02IjLPXdBJ7AAAu], emitting to wapId null
+4.6.2022, 17:30:36 - INFO - Wap was edit by socket [id: iXg3i02IjLPXdBJ7AAAu], emitting to wapId null
+4.6.2022, 17:30:44 - INFO - Wap was edit by socket [id: iXg3i02IjLPXdBJ7AAAu], emitting to wapId null
+4.6.2022, 17:30:46 - INFO - Wap was edit by socket [id: iXg3i02IjLPXdBJ7AAAu], emitting to wapId null
+4.6.2022, 17:35:54 - INFO - Wap was edit by socket [id: iXg3i02IjLPXdBJ7AAAu], emitting to wapId null
+4.6.2022, 17:36:14 - INFO - Wap was edit by socket [id: iXg3i02IjLPXdBJ7AAAu], emitting to wapId null
+4.6.2022, 17:36:23 - INFO - Wap was edit by socket [id: iXg3i02IjLPXdBJ7AAAu], emitting to wapId null
+4.6.2022, 17:38:13 - INFO - Wap was edit by socket [id: iXg3i02IjLPXdBJ7AAAu], emitting to wapId null
+4.6.2022, 17:38:16 - INFO - Wap was edit by socket [id: iXg3i02IjLPXdBJ7AAAu], emitting to wapId null
+4.6.2022, 17:38:19 - INFO - Wap was edit by socket [id: iXg3i02IjLPXdBJ7AAAu], emitting to wapId null
+4.6.2022, 17:41:44 - ERROR - while finding wap 629b6dce080069f6d2dc0244 | {}
+4.6.2022, 17:41:44 - ERROR - Failed to get wap | {}
+4.6.2022, 17:41:47 - ERROR - while finding wap undefined | {}
+4.6.2022, 17:41:47 - ERROR - Failed to get wap | {}
+4.6.2022, 17:42:32 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 17:42:37 - INFO - New connected socket [id: ZYAlXFTALCfSzg9SAAAw]
+4.6.2022, 17:43:23 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 17:43:26 - INFO - New connected socket [id: mwSX6zG3IXAbsc7uAAAy]
+4.6.2022, 17:45:01 - INFO - Wap was edit by socket [id: mwSX6zG3IXAbsc7uAAAy], emitting to wapId null
+4.6.2022, 17:45:06 - INFO - Wap was edit by socket [id: mwSX6zG3IXAbsc7uAAAy], emitting to wapId null
+4.6.2022, 17:45:10 - INFO - Wap was edit by socket [id: mwSX6zG3IXAbsc7uAAAy], emitting to wapId null
+4.6.2022, 17:45:34 - INFO - Wap was edit by socket [id: mwSX6zG3IXAbsc7uAAAy], emitting to wapId null
+4.6.2022, 17:45:40 - INFO - Wap was edit by socket [id: mwSX6zG3IXAbsc7uAAAy], emitting to wapId null
+4.6.2022, 17:45:45 - INFO - Wap was edit by socket [id: mwSX6zG3IXAbsc7uAAAy], emitting to wapId null
+4.6.2022, 17:46:02 - INFO - Wap was edit by socket [id: mwSX6zG3IXAbsc7uAAAy], emitting to wapId null
+4.6.2022, 17:46:05 - INFO - Wap was edit by socket [id: mwSX6zG3IXAbsc7uAAAy], emitting to wapId null
+4.6.2022, 17:46:09 - INFO - Wap was edit by socket [id: mwSX6zG3IXAbsc7uAAAy], emitting to wapId null
+4.6.2022, 17:48:53 - INFO - New connected socket [id: y6PJBOvlHZNc-nlEAAAB]
+4.6.2022, 17:49:10 - INFO - Wap was edit by socket [id: y6PJBOvlHZNc-nlEAAAB], emitting to wapId null
+4.6.2022, 17:49:19 - INFO - Wap was edit by socket [id: y6PJBOvlHZNc-nlEAAAB], emitting to wapId null
+4.6.2022, 17:51:31 - INFO - New connected socket [id: MY2mm3O2y8calO5WAAAB]
+4.6.2022, 17:52:04 - INFO - New connected socket [id: PbnmOv66xCqvPA6uAAAB]
+4.6.2022, 17:52:31 - INFO - Wap was edit by socket [id: PbnmOv66xCqvPA6uAAAB], emitting to wapId null
+4.6.2022, 17:52:36 - INFO - Wap was edit by socket [id: PbnmOv66xCqvPA6uAAAB], emitting to wapId null
+4.6.2022, 17:54:51 - INFO - Wap was edit by socket [id: PbnmOv66xCqvPA6uAAAB], emitting to wapId null
+4.6.2022, 17:54:53 - INFO - Wap was edit by socket [id: PbnmOv66xCqvPA6uAAAB], emitting to wapId null
+4.6.2022, 17:56:33 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 17:56:45 - INFO - New connected socket [id: uSUpLmuN1Jfhc9HoAAAD]
+4.6.2022, 17:56:56 - INFO - Wap was edit by socket [id: uSUpLmuN1Jfhc9HoAAAD], emitting to wapId null
+4.6.2022, 17:56:59 - INFO - Wap was edit by socket [id: uSUpLmuN1Jfhc9HoAAAD], emitting to wapId null
+4.6.2022, 17:57:04 - INFO - Wap was edit by socket [id: uSUpLmuN1Jfhc9HoAAAD], emitting to wapId null
+4.6.2022, 17:57:08 - INFO - Wap was edit by socket [id: uSUpLmuN1Jfhc9HoAAAD], emitting to wapId null
+4.6.2022, 17:57:12 - INFO - Wap was edit by socket [id: uSUpLmuN1Jfhc9HoAAAD], emitting to wapId null
+4.6.2022, 17:58:29 - INFO - Wap was edit by socket [id: uSUpLmuN1Jfhc9HoAAAD], emitting to wapId null
+4.6.2022, 17:58:33 - INFO - Wap was edit by socket [id: uSUpLmuN1Jfhc9HoAAAD], emitting to wapId null
+4.6.2022, 17:58:36 - INFO - Wap was edit by socket [id: uSUpLmuN1Jfhc9HoAAAD], emitting to wapId null
+4.6.2022, 17:58:39 - INFO - Wap was edit by socket [id: uSUpLmuN1Jfhc9HoAAAD], emitting to wapId null
+4.6.2022, 18:02:58 - INFO - New connected socket [id: WcC5RiurdzwIgYgLAAAB]
+4.6.2022, 18:03:48 - INFO - Wap was edit by socket [id: WcC5RiurdzwIgYgLAAAB], emitting to wapId null
+4.6.2022, 18:03:51 - INFO - Wap was edit by socket [id: WcC5RiurdzwIgYgLAAAB], emitting to wapId null
+4.6.2022, 18:03:55 - INFO - Wap was edit by socket [id: WcC5RiurdzwIgYgLAAAB], emitting to wapId null
+4.6.2022, 18:03:58 - INFO - Wap was edit by socket [id: WcC5RiurdzwIgYgLAAAB], emitting to wapId null
+4.6.2022, 18:04:03 - INFO - Wap was edit by socket [id: WcC5RiurdzwIgYgLAAAB], emitting to wapId null
+4.6.2022, 18:04:08 - INFO - Wap was edit by socket [id: WcC5RiurdzwIgYgLAAAB], emitting to wapId null
+4.6.2022, 18:04:15 - INFO - Wap was edit by socket [id: WcC5RiurdzwIgYgLAAAB], emitting to wapId null
+4.6.2022, 18:04:23 - INFO - Wap was edit by socket [id: WcC5RiurdzwIgYgLAAAB], emitting to wapId null
+4.6.2022, 18:08:51 - INFO - New connected socket [id: vDUF4zBvS968GYLaAAAB]
+4.6.2022, 18:08:58 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:09:01 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:09:03 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:09:06 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:09:08 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:09:11 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:09:37 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:09:37 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:09:46 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:09:58 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:10:02 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:10:14 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:12:20 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:12:20 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:12:31 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:13:24 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:13:28 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:13:33 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:13:35 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:17:06 - INFO - Wap was edit by socket [id: vDUF4zBvS968GYLaAAAB], emitting to wapId null
+4.6.2022, 18:17:07 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:17:11 - INFO - New connected socket [id: F1AoF_F6XbfBks0-AAAD]
+4.6.2022, 18:17:22 - INFO - Wap was edit by socket [id: F1AoF_F6XbfBks0-AAAD], emitting to wapId null
+4.6.2022, 18:17:26 - INFO - Wap was edit by socket [id: F1AoF_F6XbfBks0-AAAD], emitting to wapId null
+4.6.2022, 18:17:36 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:17:39 - INFO - New connected socket [id: tpxpdYIyDltdPBN7AAAF]
+4.6.2022, 18:17:51 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:17:57 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:18:02 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:18:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:18:42 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:18:46 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:18:48 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:18:49 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:18:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:18:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:18:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:00 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:00 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:07 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:07 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:38 - INFO - New connected socket [id: 5xEYHpAt9SaMg-F9AAAH]
+4.6.2022, 18:19:40 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:40 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:40 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:41 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:42 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:45 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:47 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:47 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:48 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:49 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:49 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:49 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:49 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:52 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:52 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:52 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:52 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:53 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:53 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:54 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:54 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:54 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:56 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:56 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:56 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:56 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:57 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:57 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:57 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:59 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:59 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:19:59 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:19:59 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:00 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:00 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:01 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:01 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:01 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:01 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:02 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:02 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:03 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:03 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:04 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:04 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:05 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:05 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:05 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:05 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:06 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:06 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:06 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:06 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:06 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:06 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:07 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:07 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:07 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:07 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:07 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:07 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:08 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:08 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:08 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:09 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:09 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:09 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:10 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:10 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:10 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:10 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:10 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:13 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:13 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:13 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:13 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:13 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:13 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:16 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:16 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:16 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:17 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:17 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:17 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:17 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:17 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:17 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:17 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:18 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:19 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:20 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:21 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:22 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:23 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:24 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:25 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:25 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:25 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:25 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:25 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:25 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:25 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:26 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:27 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:28 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:28 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:30 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:30 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:30 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:30 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:31 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:31 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:32 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:32 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:32 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:32 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:32 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:32 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:32 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:32 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:33 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:33 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:33 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:33 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:33 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:33 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:34 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:34 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:34 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:34 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:34 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:34 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:35 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:35 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:35 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:35 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:36 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:36 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:37 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:38 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:39 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:39 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:39 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:39 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:39 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:39 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:39 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:39 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:40 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:40 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:40 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:40 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:40 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:42 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:42 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:42 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:42 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:42 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:42 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:43 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:44 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:48 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:48 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:49 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:50 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:51 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:52 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:52 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:52 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:52 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:52 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:52 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:52 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:52 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:52 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:52 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:53 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:54 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:55 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:56 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:57 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:57 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:57 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:57 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:57 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:57 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:57 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:57 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:57 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:57 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:58 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:59 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:59 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:59 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:59 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:59 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:59 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:59 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:20:59 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:20:59 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:00 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:00 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:00 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:00 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:00 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:01 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:01 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:01 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:01 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:01 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:01 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:02 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:02 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:02 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:02 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:02 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:02 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:02 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:02 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:03 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:04 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:05 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:06 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:07 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:07 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:07 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:08 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:09 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:10 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:10 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:10 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:10 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:11 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:12 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:13 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:14 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:15 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: tpxpdYIyDltdPBN7AAAF], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:16 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:17 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:17 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:17 - INFO - Wap was edit by socket [id: 5xEYHpAt9SaMg-F9AAAH], emitting to wapId null
+4.6.2022, 18:21:17 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:21:19 - INFO - New connected socket [id: GNMyQlYGuydBHa7vAAAK]
+4.6.2022, 18:21:20 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:20 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:20 - INFO - New connected socket [id: y3z0ctBfusftNIvRAAAL]
+4.6.2022, 18:21:20 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:20 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:21 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:21 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:21 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:22 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:23 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:24 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:25 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:26 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:27 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:28 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:29 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:30 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:31 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:32 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:33 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:34 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:34 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:34 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:34 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:36 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:37 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:38 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:39 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:40 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:41 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:41 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:41 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:41 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:41 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:41 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:41 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:41 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:41 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:43 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:43 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:43 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:43 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:43 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:44 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:44 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:45 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:45 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:45 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:46 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:46 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:47 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:51 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:51 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:51 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:52 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:53 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:53 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:53 - INFO - Wap was edit by socket [id: GNMyQlYGuydBHa7vAAAK], emitting to wapId null
+4.6.2022, 18:21:53 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:21:53 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:54 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:54 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:54 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:55 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:55 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:55 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:55 - INFO - Wap was edit by socket [id: y3z0ctBfusftNIvRAAAL], emitting to wapId null
+4.6.2022, 18:21:55 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:21:57 - INFO - New connected socket [id: 3YloGbbprNAOvIifAAAO]
+4.6.2022, 18:21:58 - INFO - New connected socket [id: D7UqOhWyrLvn4pxuAAAP]
+4.6.2022, 18:22:04 - INFO - Wap was edit by socket [id: 3YloGbbprNAOvIifAAAO], emitting to wapId null
+4.6.2022, 18:22:07 - INFO - Wap was edit by socket [id: 3YloGbbprNAOvIifAAAO], emitting to wapId null
+4.6.2022, 18:22:12 - INFO - Wap was edit by socket [id: 3YloGbbprNAOvIifAAAO], emitting to wapId null
+4.6.2022, 18:22:24 - INFO - Wap was edit by socket [id: 3YloGbbprNAOvIifAAAO], emitting to wapId null
+4.6.2022, 18:22:51 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:23:09 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:23:11 - INFO - New connected socket [id: 5EVcwy4ApgDmKWYKAAAR]
+4.6.2022, 18:27:03 - DEBUG - auth.service - login with email: vickymenashe@gmail.com
+4.6.2022, 18:27:03 - INFO - User login:  | {"_id":"62931ed7a22fe59be02d43f1","email":"vickymenashe@gmail.com","password":null,"firstName":"Vicky","lastName":"Menashe Polatov","isSocial":true,"imgUrl":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10160381079399653&height=50&width=50&ext=1656400855&hash=AeQtldwmqQTz0QYAMJs"}
+4.6.2022, 18:30:30 - INFO - Wap was edit by socket [id: 5EVcwy4ApgDmKWYKAAAR], emitting to wapId null
+4.6.2022, 18:30:31 - INFO - Wap was edit by socket [id: 5EVcwy4ApgDmKWYKAAAR], emitting to wapId null
+4.6.2022, 18:30:31 - INFO - Wap was edit by socket [id: 5EVcwy4ApgDmKWYKAAAR], emitting to wapId null
+4.6.2022, 18:30:44 - INFO - Wap was edit by socket [id: 5EVcwy4ApgDmKWYKAAAR], emitting to wapId null
+4.6.2022, 18:30:45 - INFO - Wap was edit by socket [id: 5EVcwy4ApgDmKWYKAAAR], emitting to wapId null
+4.6.2022, 18:33:08 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:33:13 - INFO - New connected socket [id: aVGcLIc6ORsYNcLjAAAT]
+4.6.2022, 18:33:31 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:33:34 - INFO - New connected socket [id: sX5A--0ZB2OysSqAAAAV]
+4.6.2022, 18:39:28 - INFO - New connected socket [id: _hKHC6KQOVyr4eVrAAAB]
+4.6.2022, 18:42:03 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:42:05 - INFO - New connected socket [id: m1tSCTJhW2mBtrArAAAD]
+4.6.2022, 18:43:29 - INFO - Socket disconnected [id: undefined]
+4.6.2022, 18:43:31 - INFO - New connected socket [id: HYzK1I9PtOnBx_LRAAAF]
+4.6.2022, 18:48:09 - INFO - Wap was edit by socket [id: HYzK1I9PtOnBx_LRAAAF], emitting to wapId null
+4.6.2022, 18:48:22 - INFO - Wap was edit by socket [id: HYzK1I9PtOnBx_LRAAAF], emitting to wapId null
+4.6.2022, 18:48:25 - INFO - Wap was edit by socket [id: HYzK1I9PtOnBx_LRAAAF], emitting to wapId null
+4.6.2022, 18:48:25 - INFO - Wap was edit by socket [id: HYzK1I9PtOnBx_LRAAAF], emitting to wapId null
+4.6.2022, 18:48:31 - INFO - Wap was edit by socket [id: HYzK1I9PtOnBx_LRAAAF], emitting to wapId null

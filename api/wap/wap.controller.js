@@ -56,7 +56,6 @@ async function updateWap(req, res) {
         /* FIX - user */
         const loggedInUser = null
         const wap = req.body
-
         /* FIX - COUNT BYES 12-24 TO MONGOID */
         const savedWap = await wapService.update(wap, loggedInUser)
         if (!savedWap) return res.status(401).send('Failed to update wap')

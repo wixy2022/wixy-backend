@@ -67,10 +67,9 @@ async function update(wap) {
                 /* FIX - change properties to save */
                 $set: {
                     name: wap.name,
-                    price: wap.price,
-                    img: wap.img,
-                    labels: wap.labels,
-                    inStock: wap.inStock
+                    imgUrl: wap.imgUrl,
+                    description: wap.description,
+                    cmps: wap.cmps
                 }
             }
         )
