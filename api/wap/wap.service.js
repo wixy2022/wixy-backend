@@ -13,14 +13,16 @@ module.exports = {
 }
 
 async function query(filterBy) {
-    let criteria = {}
+    let criteria = _buildCriteria(filterBy)
+    
     /* no use of filterBy for now */
 
     try {
         const collection = await dbService.getCollection('wap')
         let waps = await collection.find(criteria)
-
+        
         waps = await waps.toArray()
+        console.log(waps)
 
         waps = waps.map(wap => {
             wap.createdAt = ObjectId(wap._id).getTimestamp()
@@ -124,4 +126,14 @@ async function remove(wapId) {
         console.log(`ERROR: cannot remove wap ${wapId}`)
         throw err
     }
+}
+function _buildCriteria(filterBy) {
+    const criteria = {}
+   console.log(filterBy.userId)
+    
+    if (filterBy.userId) {
+        criteria.creator = ObjectId(filterBy.userId)
+    }
+    
+    return criteria
 }

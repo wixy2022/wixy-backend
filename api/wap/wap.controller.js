@@ -1,6 +1,7 @@
 const wapService = require('./wap.service')
 const logger = require('../../services/logger.service')
 const authService = require('../auth/auth.service')
+const { ObjectId } = require('mongodb')
 
 module.exports = {
     getWaps,
@@ -12,6 +13,7 @@ module.exports = {
 
 async function getWaps(req, res) {
     try {
+        console.log(req.query)
         const waps = await wapService.query(req.query || '{}')
         res.send(waps)
     } catch (err) {
@@ -40,8 +42,8 @@ async function addWap(req, res) {
         let wap = req.body
         const loggedinUser = authService.validateToken(req.cookies.loginToken)
         /* FIX -  */
-        const creator = loggedinUser? loggedinUser:'GUEST'
-        wap.creator = creator
+        // const creator = loggedinUser? loggedinUser:'GUEST'
+        wap.creator = ObjectId(loggedinUser?._id) || 'GUEST'
 
         /* FIX - COUNT BYES 12-24 TO MONGOID */
         const savedWap = await wapService.add(wap)
