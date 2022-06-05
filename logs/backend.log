@@ -3595,3 +3595,64 @@
 4.6.2022, 18:48:25 - INFO - Wap was edit by socket [id: HYzK1I9PtOnBx_LRAAAF], emitting to wapId null
 4.6.2022, 18:48:25 - INFO - Wap was edit by socket [id: HYzK1I9PtOnBx_LRAAAF], emitting to wapId null
 4.6.2022, 18:48:31 - INFO - Wap was edit by socket [id: HYzK1I9PtOnBx_LRAAAF], emitting to wapId null
+6/5/2022, 11:23:54 AM - INFO - New connected socket [id: -GNdIQGjORwlMeJpAAAC]
+6/5/2022, 11:23:54 AM - INFO - New connected socket [id: aWOqkWT9aygfS0XDAAAD]
+6/5/2022, 11:50:22 AM - INFO - New connected socket [id: jvWvQOeIvqxEf8KpAAAB]
+6/5/2022, 11:50:23 AM - INFO - New connected socket [id: MvgPEYfDCX0JPIs2AAAD]
+6/5/2022, 11:55:26 AM - INFO - Wap was edit by socket [id: MvgPEYfDCX0JPIs2AAAD], emitting to wapId null
+6/5/2022, 11:55:30 AM - INFO - Wap was edit by socket [id: MvgPEYfDCX0JPIs2AAAD], emitting to wapId null
+6/5/2022, 11:58:19 AM - INFO - Wap was edit by socket [id: MvgPEYfDCX0JPIs2AAAD], emitting to wapId null
+6/5/2022, 12:00:54 PM - INFO - Wap was edit by socket [id: MvgPEYfDCX0JPIs2AAAD], emitting to wapId null
+6/5/2022, 12:00:56 PM - INFO - Wap was edit by socket [id: MvgPEYfDCX0JPIs2AAAD], emitting to wapId null
+6/5/2022, 12:02:55 PM - INFO - Socket disconnected [id: undefined]
+6/5/2022, 12:02:56 PM - INFO - New connected socket [id: 2E-tCfScwhi4X2mXAAAF]
+6/5/2022, 12:02:56 PM - INFO - Setting socket.userId = 6293b6da4e89eeab28a0fd82 for socket [id: 2E-tCfScwhi4X2mXAAAF]
+6/5/2022, 12:03:17 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:03:18 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:03:19 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:03:20 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:04:45 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:04:46 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:04:48 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:05:58 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:06:08 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:08:51 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:08:53 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:10:17 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:10:20 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:10:23 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:11:33 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:11:37 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:12:21 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:12:24 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:13:49 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:13:51 PM - INFO - Wap was edit by socket [id: 2E-tCfScwhi4X2mXAAAF], emitting to wapId null
+6/5/2022, 12:15:51 PM - INFO - Socket disconnected [id: undefined]
+6/5/2022, 12:15:51 PM - INFO - New connected socket [id: pRCalF4MxH8pf4VqAAAH]
+6/5/2022, 12:15:52 PM - INFO - Setting socket.userId = 6293b6da4e89eeab28a0fd82 for socket [id: pRCalF4MxH8pf4VqAAAH]
+6/5/2022, 12:16:14 PM - INFO - New connected socket [id: dTqurxWOoKOg7FdDAAAJ]
+6/5/2022, 12:16:15 PM - INFO - Socket disconnected [id: undefined]
+6/5/2022, 12:16:17 PM - INFO - Socket disconnected [id: undefined]
+6/5/2022, 12:16:30 PM - INFO - Wap was edit by socket [id: dTqurxWOoKOg7FdDAAAJ], emitting to wapId null
+6/5/2022, 12:16:31 PM - INFO - Wap was edit by socket [id: dTqurxWOoKOg7FdDAAAJ], emitting to wapId null
+6/5/2022, 12:16:33 PM - INFO - Wap was edit by socket [id: dTqurxWOoKOg7FdDAAAJ], emitting to wapId null
+6/5/2022, 12:16:55 PM - INFO - Wap was edit by socket [id: dTqurxWOoKOg7FdDAAAJ], emitting to wapId null
+6/5/2022, 12:16:57 PM - INFO - Wap was edit by socket [id: dTqurxWOoKOg7FdDAAAJ], emitting to wapId null
+6/5/2022, 12:20:58 PM - INFO - Socket disconnected [id: undefined]
+6/5/2022, 12:20:59 PM - INFO - New connected socket [id: rYky9v0-ybgd5DX5AAAL]
+6/5/2022, 12:22:44 PM - INFO - Wap was edit by socket [id: rYky9v0-ybgd5DX5AAAL], emitting to wapId null
+6/5/2022, 12:22:45 PM - INFO - Wap was edit by socket [id: rYky9v0-ybgd5DX5AAAL], emitting to wapId null
+6/5/2022, 12:22:46 PM - INFO - Wap was edit by socket [id: rYky9v0-ybgd5DX5AAAL], emitting to wapId null
+6/5/2022, 12:22:47 PM - INFO - Wap was edit by socket [id: rYky9v0-ybgd5DX5AAAL], emitting to wapId null
+6/5/2022, 12:24:57 PM - INFO - Socket disconnected [id: undefined]
+6/5/2022, 12:24:57 PM - INFO - New connected socket [id: V9kzRI0wVxpQAE1VAAAN]
+6/5/2022, 12:25:16 PM - INFO - Wap was edit by socket [id: V9kzRI0wVxpQAE1VAAAN], emitting to wapId null
+6/5/2022, 12:25:21 PM - INFO - Wap was edit by socket [id: V9kzRI0wVxpQAE1VAAAN], emitting to wapId null
+6/5/2022, 12:28:48 PM - INFO - Socket disconnected [id: undefined]
+6/5/2022, 12:28:48 PM - INFO - New connected socket [id: J_9DFu1vAee5ALuZAAAP]
+6/5/2022, 12:30:05 PM - INFO - Wap was edit by socket [id: J_9DFu1vAee5ALuZAAAP], emitting to wapId null
+6/5/2022, 12:30:06 PM - INFO - Wap was edit by socket [id: J_9DFu1vAee5ALuZAAAP], emitting to wapId null
+6/5/2022, 12:30:10 PM - INFO - Wap was edit by socket [id: J_9DFu1vAee5ALuZAAAP], emitting to wapId null
+6/5/2022, 12:32:08 PM - INFO - Wap was edit by socket [id: J_9DFu1vAee5ALuZAAAP], emitting to wapId null
+6/5/2022, 12:32:11 PM - INFO - Wap was edit by socket [id: J_9DFu1vAee5ALuZAAAP], emitting to wapId null
+6/5/2022, 12:32:12 PM - INFO - Wap was edit by socket [id: J_9DFu1vAee5ALuZAAAP], emitting to wapId null

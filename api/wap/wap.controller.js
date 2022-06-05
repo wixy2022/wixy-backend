@@ -1,5 +1,6 @@
 const wapService = require('./wap.service')
 const logger = require('../../services/logger.service')
+const authService = require('../auth/auth.service')
 
 module.exports = {
     getWaps,
@@ -37,8 +38,10 @@ async function getWapById(req, res) {
 async function addWap(req, res) {
     try {
         let wap = req.body
+        const loggedinUser = authService.validateToken(req.cookies.loginToken)
         /* FIX -  */
-        //     // wap.creator = loggedInUser
+        const creator = loggedinUser? loggedinUser:'GUEST'
+        wap.creator = creator
 
         /* FIX - COUNT BYES 12-24 TO MONGOID */
         const savedWap = await wapService.add(wap)
