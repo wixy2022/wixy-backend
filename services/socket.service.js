@@ -36,10 +36,10 @@ function setupSocketAPI(http) {
             // gIo.to(socket.mywapId).emit('wap changed', wap)
             socket.broadcast.emit('wap changed', wap)
         })
-        // socket.on('mousemove', data => {
-        //     data.id = id;
-        //     socket.broadcast.emit("moving", data);
-        //   })
+        socket.on('on-mouse-move', data => {
+            // data.id = id;
+            socket.broadcast.emit("guest-mouse-move", data);
+          })
         socket.on('user-watch', userId => {
             logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
             socket.join('watching:' + userId)
