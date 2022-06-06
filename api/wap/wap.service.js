@@ -60,6 +60,7 @@ async function add(wap) {
 }
 
 async function update(wap) {
+    console.log(wap)
     try {
         const collection = await dbService.getCollection('wap')
 
@@ -71,7 +72,8 @@ async function update(wap) {
                     name: wap.name,
                     imgUrl: wap.imgUrl,
                     description: wap.description,
-                    cmps: wap.cmps
+                    cmps: wap.cmps,
+                    leads:wap.leads||[]
                 }
             }
         )

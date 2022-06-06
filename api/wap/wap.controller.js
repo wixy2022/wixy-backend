@@ -60,9 +60,19 @@ async function updateWap(req, res) {
     try {
         /* FIX - user */
         const loggedInUser = null
-        const wap = req.body
+        const data = req.body
+        let savedWap
+        if (data.hasOwnProperty('fullname')){
+            const wap = await wapService.getById(data.wapId)
+            console.log(wap._id)
+            wap.leads? wap.leads.push(data):wap.leads = [data]
+            // console.log(wap,'|||||||||||||||||||||||||||||||||||||')
+            savedWap = await wapService.update(wap, loggedInUser)
+            console.log(savedWap ,'|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||')
+        }else{
+             savedWap = await wapService.update(data, loggedInUser)
+        }
         /* FIX - COUNT BYES 12-24 TO MONGOID */
-        const savedWap = await wapService.update(wap, loggedInUser)
         if (!savedWap) return res.status(401).send('Failed to update wap')
         res.send(savedWap)
 
