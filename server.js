@@ -12,12 +12,26 @@ const cookieParser = require('cookie-parser')
 const cors = require('cors')
 const path = require('path')
 
+const webpush = require('web-push')
+const bodyParser = require('body-parser')
+
+
+
 const app = express();
 const http = require('http').createServer(app) /* surrounding http let us use WebSockets */
 
 app.use(cookieParser())
 app.use(express.json())
 app.use(express.static('public'));
+
+
+
+const publicVapidKey = 'BFJRJ5RBPh85KdwMjFmNXzvYB2Z8_0_e8hNr90i2yY9dfCL9DM2wxv1BeRbar5PJe7e03s2VwP2KpWX_2516t3M'
+const privateVapidKey = '9XaXG_BMuCXrdEWom4qxiASRJ9ibRGy9sw4rNHI4kBg'
+
+
+webpush.setVapidDetails('mailto:ilovebpxd@gmail.com', publicVapidKey, privateVapidKey)
+
 
 if (process.env.NODE_ENV === 'production') {
     // Express serve static files on production environment
@@ -29,9 +43,18 @@ if (process.env.NODE_ENV === 'production') {
         origin: ['http://127.0.0.1:8080', 'http://localhost:8080', 'http://127.0.0.1:3000', 'http://localhost:3000'],
         credentials: true
     }
+
+    app.use(bodyParser.json())
     app.use(cors(corsOptions))
 }
-
+app.post('/subscribe/:myParams?', (req, res) => {
+    const subsciption = req.body
+    console.log('hey im log')
+    const { title, body } = req.query
+    res.status(201).json({})
+    const payload = JSON.stringify({ title, body })
+    webpush.sendNotification(subsciption, payload).catch(err => console.error(err))
+})
 //routes
 const setupAsyncLocalStorage = require('./middlewares/setup.als.middleware')
 app.all('*', setupAsyncLocalStorage)
@@ -39,7 +62,7 @@ app.all('*', setupAsyncLocalStorage)
 const authRoutes = require('./api/auth/auth.routes')
 const userRoutes = require('./api/user/user.routes')
 const wapRoutes = require('./api/wap/wap.routes')
-const {setupSocketAPI} = require('./services/socket.service')
+const { setupSocketAPI } = require('./services/socket.service')
 
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
