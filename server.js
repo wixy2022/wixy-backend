@@ -26,8 +26,8 @@ app.use(express.static('public'));
 
 
 
-const publicVapidKey = 'BFJRJ5RBPh85KdwMjFmNXzvYB2Z8_0_e8hNr90i2yY9dfCL9DM2wxv1BeRbar5PJe7e03s2VwP2KpWX_2516t3M'
-const privateVapidKey = '9XaXG_BMuCXrdEWom4qxiASRJ9ibRGy9sw4rNHI4kBg'
+const publicVapidKey = 'BL5K2ebzwnuwBgEQDwtJt5EYi10JeixdhoEwgp2_DS23_U0FjCwZlZ-y97bHlYdMrg61IPxYKXNwvtE5f8eoqpo'
+const privateVapidKey = 'E2wEkTbcUYgPBDr9cXQKn4vXWYlnT7QjGz9Ro4Dxm6s'
 
 
 webpush.setVapidDetails('mailto:ilovebpxd@gmail.com', publicVapidKey, privateVapidKey)
