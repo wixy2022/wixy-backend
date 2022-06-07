@@ -21,8 +21,8 @@ self.addEventListener('push',(ev)=>{
   self.addEventListener('notificationclick', function(event) {
       console.log(event,wapId)
       
-    let url =(process.env.NODE_ENV==='production')?`https://wixy-2022.herokuapp.com/#/dashboard?id=${wapId}`:`http://localhost:3030/#/dashboard?id=${wapId}`
-    // let url = ;
+    let url =`http://localhost:3030/#/dashboard?id=${wapId}`
+    // let url = ;                                  https://wixy-2022.herokuapp.com/#/dashboard?id=629f77ccacb25a41d5229724
     event.notification.close(); // Android needs explicit close.
     event.waitUntil(
         self?.clients.matchAll({type: 'window'}).then( windowClients => {

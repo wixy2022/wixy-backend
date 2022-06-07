@@ -1,0 +1,101 @@
+6/7/2022, 7:29:15 PM - INFO - New connected socket [id: BaDmT72mKbim9Dz-AAAB]
+6/7/2022, 7:29:15 PM - INFO - Setting socket.userId = null for socket [id: BaDmT72mKbim9Dz-AAAB]
+6/7/2022, 7:29:15 PM - INFO - Removing socket.userId for socket [id: BaDmT72mKbim9Dz-AAAB]
+6/7/2022, 7:29:18 PM - DEBUG - auth.service - login with email: alex@1234
+6/7/2022, 7:29:19 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:29:22 PM - DEBUG - auth.service - login with email: alex@1234
+6/7/2022, 7:29:22 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:29:46 PM - DEBUG - auth.service - signup with email: 1234@1234.com, fullname: alex yakovlevv
+6/7/2022, 7:29:46 PM - DEBUG - auth.route - new account created: {"email":"1234@1234.com","password":"$2b$10$t.mXMulvu.r07b4EGs95h.swg1Xz6VBNy0.MnfvjC/5MwMOIzgCN2","firstName":"alex","lastName":"yakovlevv","isSocial":false,"imgUrl":null,"_id":"629f7cfa2ffa9dc5f122d7e5"}
+6/7/2022, 7:29:46 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:29:46 PM - INFO - User login:  | {"_id":"629f7cfa2ffa9dc5f122d7e5","email":"1234@1234.com","firstName":"alex","lastName":"yakovlevv","isSocial":false,"imgUrl":null}
+6/7/2022, 7:29:55 PM - INFO - Wap was edit by socket [id: BaDmT72mKbim9Dz-AAAB], emitting to wapId null
+6/7/2022, 7:30:03 PM - INFO - New connected socket [id: ame9kJPgCZpOB1afAAAD]
+6/7/2022, 7:30:03 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 7:30:03 PM - INFO - Socket is leaving wapId 629f7d002ffa9dc5f122d7e6 [id: ame9kJPgCZpOB1afAAAD]
+6/7/2022, 7:30:04 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 7:30:04 PM - INFO - Setting socket.userId = null for socket [id: ame9kJPgCZpOB1afAAAD]
+6/7/2022, 7:30:51 PM - INFO - Req was made
+6/7/2022, 7:30:54 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:30:55 PM - INFO - New connected socket [id: _JuL2ATaOXM3HPMWAAAF]
+6/7/2022, 7:30:55 PM - INFO - Req was made
+6/7/2022, 7:30:55 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 7:30:55 PM - INFO - Setting socket.userId = 629f7cfa2ffa9dc5f122d7e5 for socket [id: _JuL2ATaOXM3HPMWAAAF]
+6/7/2022, 7:30:55 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 7:31:19 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:31:20 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:31:48 PM - INFO - New connected socket [id: 78NagSdRsXahhgaVAAAH]
+6/7/2022, 7:31:48 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 7:31:48 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 7:31:48 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: 78NagSdRsXahhgaVAAAH]
+6/7/2022, 7:31:50 PM - INFO - Removing socket.userId for socket [id: 78NagSdRsXahhgaVAAAH]
+6/7/2022, 7:31:56 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:31:56 PM - INFO - User login:  | {"_id":"629f7cfa2ffa9dc5f122d7e5","email":"1234@1234.com","firstName":"alex","lastName":"yakovlevv","isSocial":false,"imgUrl":null}
+6/7/2022, 7:31:56 PM - INFO - Setting socket.userId = 629f7cfa2ffa9dc5f122d7e5 for socket [id: 78NagSdRsXahhgaVAAAH]
+6/7/2022, 7:31:59 PM - INFO - Req was made
+6/7/2022, 7:32:11 PM - INFO - New connected socket [id: hgfvcXwGJsmU4ZPcAAAJ]
+6/7/2022, 7:32:11 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:32:11 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:32:11 PM - INFO - Socket is leaving wapId 629f7d002ffa9dc5f122d7e6 [id: hgfvcXwGJsmU4ZPcAAAJ]
+6/7/2022, 7:32:11 PM - INFO - Setting socket.userId = null for socket [id: hgfvcXwGJsmU4ZPcAAAJ]
+6/7/2022, 7:33:08 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:33:09 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:33:19 PM - INFO - New connected socket [id: JfuCwJbOkZQPEDtrAAAL]
+6/7/2022, 7:33:19 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:33:19 PM - INFO - Socket is leaving wapId 629f7d002ffa9dc5f122d7e6 [id: JfuCwJbOkZQPEDtrAAAL]
+6/7/2022, 7:33:19 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:33:19 PM - INFO - Setting socket.userId = null for socket [id: JfuCwJbOkZQPEDtrAAAL]
+6/7/2022, 7:34:27 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:34:28 PM - INFO - New connected socket [id: olJ5umnGNqhT1zQ-AAAN]
+6/7/2022, 7:34:28 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:34:28 PM - INFO - Socket is leaving wapId 629f7d002ffa9dc5f122d7e6 [id: olJ5umnGNqhT1zQ-AAAN]
+6/7/2022, 7:34:28 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:34:29 PM - INFO - Setting socket.userId = null for socket [id: olJ5umnGNqhT1zQ-AAAN]
+6/7/2022, 7:34:50 PM - INFO - New connected socket [id: fujYNrvRvhkVqldaAAAP]
+6/7/2022, 7:34:50 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:34:50 PM - INFO - Socket is leaving wapId 629f7d002ffa9dc5f122d7e6 [id: fujYNrvRvhkVqldaAAAP]
+6/7/2022, 7:34:50 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:34:50 PM - INFO - Setting socket.userId = null for socket [id: fujYNrvRvhkVqldaAAAP]
+6/7/2022, 7:35:28 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:35:30 PM - INFO - New connected socket [id: Hsj7HW8gQJhTL8tBAAAR]
+6/7/2022, 7:35:31 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:35:31 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:35:31 PM - INFO - Setting socket.userId = null for socket [id: Hsj7HW8gQJhTL8tBAAAR]
+6/7/2022, 7:35:33 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:35:35 PM - INFO - New connected socket [id: TJAQRPULj4Wt3TvsAAAT]
+6/7/2022, 7:35:35 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:35:35 PM - INFO - Setting socket.userId = null for socket [id: TJAQRPULj4Wt3TvsAAAT]
+6/7/2022, 7:35:35 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:35:38 PM - INFO - Removing socket.userId for socket [id: TJAQRPULj4Wt3TvsAAAT]
+6/7/2022, 7:35:45 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:35:45 PM - INFO - User login:  | {"_id":"629f7cfa2ffa9dc5f122d7e5","email":"1234@1234.com","firstName":"alex","lastName":"yakovlevv","isSocial":false,"imgUrl":null}
+6/7/2022, 7:35:45 PM - INFO - Setting socket.userId = 629f7cfa2ffa9dc5f122d7e5 for socket [id: TJAQRPULj4Wt3TvsAAAT]
+6/7/2022, 7:36:36 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:36:36 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:36:38 PM - INFO - New connected socket [id: rmyYgkxzRs9ETKNSAAAW]
+6/7/2022, 7:36:38 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:36:38 PM - INFO - New connected socket [id: 0ppHwZ7m_d7t2sqkAAAX]
+6/7/2022, 7:36:38 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:36:38 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:36:38 PM - INFO - Setting socket.userId = null for socket [id: rmyYgkxzRs9ETKNSAAAW]
+6/7/2022, 7:36:38 PM - INFO - Setting socket.userId = null for socket [id: 0ppHwZ7m_d7t2sqkAAAX]
+6/7/2022, 7:36:38 PM - INFO - Socket is leaving wapId 629f7d002ffa9dc5f122d7e6 [id: 0ppHwZ7m_d7t2sqkAAAX]
+6/7/2022, 7:36:38 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:36:41 PM - INFO - Removing socket.userId for socket [id: rmyYgkxzRs9ETKNSAAAW]
+6/7/2022, 7:36:47 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:36:47 PM - INFO - User login:  | {"_id":"629f7cfa2ffa9dc5f122d7e5","email":"1234@1234.com","firstName":"alex","lastName":"yakovlevv","isSocial":false,"imgUrl":null}
+6/7/2022, 7:36:47 PM - INFO - Setting socket.userId = 629f7cfa2ffa9dc5f122d7e5 for socket [id: rmyYgkxzRs9ETKNSAAAW]
+6/7/2022, 7:37:21 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:37:21 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 7:37:23 PM - INFO - New connected socket [id: 0_Rs6s-eMEYBZaqOAAAa]
+6/7/2022, 7:37:23 PM - INFO - New connected socket [id: 3SjjuFwcP0jOcr8cAAAb]
+6/7/2022, 7:37:23 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:37:23 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:37:23 PM - DEBUG - auth.service - login with email: 1234@1234.com
+6/7/2022, 7:37:23 PM - INFO - Setting socket.userId = 629f7cfa2ffa9dc5f122d7e5 for socket [id: 0_Rs6s-eMEYBZaqOAAAa]
+6/7/2022, 7:37:23 PM - INFO - Socket is leaving wapId 629f7d002ffa9dc5f122d7e6 [id: 3SjjuFwcP0jOcr8cAAAb]
+6/7/2022, 7:37:23 PM - INFO - Setting socket.userId = null for socket [id: 3SjjuFwcP0jOcr8cAAAb]
+6/7/2022, 7:37:23 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 7:37:27 PM - INFO - Req was made
+6/7/2022, 7:37:49 PM - INFO - New connected socket [id: kyvao3C28HXDqmVqAAAd]
+6/7/2022, 7:37:50 PM - INFO - Setting socket.userId = null for socket [id: kyvao3C28HXDqmVqAAAd]
