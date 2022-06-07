@@ -5246,3 +5246,27 @@
 6/7/2022, 4:23:22 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
 6/7/2022, 4:23:22 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
 6/7/2022, 4:23:22 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: mb2Wg5uvxTRHIB25AAAj]
+6/7/2022, 4:52:16 PM - INFO - New connected socket [id: d1iHi6T6GT-r9VqnAAAB]
+6/7/2022, 4:52:17 PM - INFO - New connected socket [id: gY3S4XZs5FpijBvNAAAD]
+6/7/2022, 4:52:19 PM - INFO - New connected socket [id: ChubP9HLz7gfQhAxAAAF]
+6/7/2022, 6:34:15 PM - INFO - New connected socket [id: VnZVWlugTX3V2mylAAAC]
+6/7/2022, 6:34:15 PM - INFO - New connected socket [id: AzL04w4YauU1bPHYAAAD]
+6/7/2022, 6:34:15 PM - INFO - Setting socket.userId = null for socket [id: VnZVWlugTX3V2mylAAAC]
+6/7/2022, 6:34:17 PM - INFO - New connected socket [id: EZQYByjoMxucGNOyAAAG]
+6/7/2022, 6:34:17 PM - INFO - New connected socket [id: ip4S7WrsEVGwT1SgAAAH]
+6/7/2022, 6:35:17 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 6:35:19 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 6:35:19 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 6:35:20 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 6:35:22 PM - INFO - New connected socket [id: LewPeK9HvZXwK9t2AAAJ]
+6/7/2022, 6:35:22 PM - INFO - Setting socket.userId = null for socket [id: LewPeK9HvZXwK9t2AAAJ]
+6/7/2022, 6:35:55 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 6:35:55 PM - INFO - New connected socket [id: 8-oG4kXDW3d5Lwa7AAAL]
+6/7/2022, 6:35:55 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 6:35:56 PM - INFO - Setting socket.userId = null for socket [id: 8-oG4kXDW3d5Lwa7AAAL]
+6/7/2022, 6:35:57 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 6:36:14 PM - INFO - Removing socket.userId for socket [id: 8-oG4kXDW3d5Lwa7AAAL]
+6/7/2022, 6:36:21 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 6:36:21 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 6:36:21 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: 8-oG4kXDW3d5Lwa7AAAL]
+6/7/2022, 6:38:51 PM - INFO - Req was made
