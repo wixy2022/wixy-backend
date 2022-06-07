@@ -2,6 +2,7 @@ const wapService = require('./wap.service')
 const logger = require('../../services/logger.service')
 const authService = require('../auth/auth.service')
 const { ObjectId } = require('mongodb')
+const { Socket } = require('socket.io')
 
 module.exports = {
     getWaps,
@@ -62,13 +63,15 @@ async function updateWap(req, res) {
         const loggedInUser = null
         const data = req.body
         let savedWap
-        if (data.hasOwnProperty('fullname')){
+        if (data.hasOwnProperty('fullName')) {
             const wap = await wapService.getById(data.wapId)
-            wap.leads? wap.leads.push(data):wap.leads = [data]
-            // console.log(wap,'|||||||||||||||||||||||||||||||||||||')
+            console.log(wap._id)
+            data.createdAt = Date.now()
+            wap.leads ? wap.leads.unshift(data) : wap.leads = [data]
             savedWap = await wapService.update(wap, loggedInUser)
-        }else{
-             savedWap = await wapService.update(data, loggedInUser)
+
+        } else {
+            savedWap = await wapService.update(data, loggedInUser)
         }
         /* FIX - COUNT BYES 12-24 TO MONGOID */
         if (!savedWap) return res.status(401).send('Failed to update wap')

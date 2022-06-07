@@ -7,22 +7,20 @@ module.exports = {
     getById,
     add,
     update,
-    // AddToChat,
     remove,
     updateWap
 }
 
 async function query(filterBy) {
     let criteria = _buildCriteria(filterBy)
-    
+
     /* no use of filterBy for now */
 
     try {
         const collection = await dbService.getCollection('wap')
         let waps = await collection.find(criteria)
-        
+
         waps = await waps.toArray()
-        console.log(waps)
 
         waps = waps.map(wap => {
             wap.createdAt = ObjectId(wap._id).getTimestamp()
@@ -40,6 +38,7 @@ async function getById(wapId) {
     try {
         const collection = await dbService.getCollection('wap')
         const wap = await collection.findOne({ _id: ObjectId(wapId) })
+        if (!wap) throw err
         wap.createdAt = ObjectId(wap._id).getTimestamp()
         return wap
     } catch (err) {
@@ -72,7 +71,8 @@ async function update(wap) {
                     imgUrl: wap.imgUrl,
                     description: wap.description,
                     cmps: wap.cmps,
-                    leads:wap.leads||[]
+                    leads: wap.leads || [],
+                    visitors: wap.visitors
                 }
             }
         )
@@ -98,26 +98,6 @@ async function updateWap(wapId, wap) {
     }
 }
 
-// async function AddToChat(wapId, msg) {
-//     try {
-//         const collection = await dbService.getCollection('wap')
-//         const wap = await collection.findOne({ _id: ObjectId(wapId) })
-//         const chat = wap.chat ? [...wap.chat, msg] : [msg]
-
-//         collection.updateOne(
-//             { _id: ObjectId(wapId) },
-//             {
-//                 $set: {
-//                     chat
-//                 }
-//             }
-//         )
-//     } catch (err) {
-//         console.log(`ERROR: cannot updateChat of wap ${wap._id}`)
-//         throw err
-//     }
-// }
-
 async function remove(wapId) {
     try {
         const collection = await dbService.getCollection('wap')
@@ -130,11 +110,10 @@ async function remove(wapId) {
 }
 function _buildCriteria(filterBy) {
     const criteria = {}
-   console.log(filterBy.userId)
-    
+
     if (filterBy.userId) {
         criteria.creator = ObjectId(filterBy.userId)
     }
-    
+
     return criteria
 }
