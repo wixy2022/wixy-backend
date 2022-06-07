@@ -38,13 +38,14 @@ async function getById(wapId) {
     try {
         const collection = await dbService.getCollection('wap')
         const wap = await collection.findOne({ _id: ObjectId(wapId) })
-        if (!wap) throw err
+        if (!wap) return
         wap.createdAt = ObjectId(wap._id).getTimestamp()
         return wap
     } catch (err) {
         logger.error(`while finding wap ${wapId}`, err)
         throw err
     }
+
 }
 
 async function add(wap) {
