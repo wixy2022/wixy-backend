@@ -99,3 +99,42 @@
 6/7/2022, 7:37:27 PM - INFO - Req was made
 6/7/2022, 7:37:49 PM - INFO - New connected socket [id: kyvao3C28HXDqmVqAAAd]
 6/7/2022, 7:37:50 PM - INFO - Setting socket.userId = null for socket [id: kyvao3C28HXDqmVqAAAd]
+6/7/2022, 10:06:33 PM - INFO - New connected socket [id: 9zEMNj5i5w2GjO5mAAAB]
+6/7/2022, 10:06:35 PM - INFO - New connected socket [id: OCBD4C__PAAn0EqVAAAD]
+6/7/2022, 10:06:35 PM - INFO - Setting socket.userId = null for socket [id: OCBD4C__PAAn0EqVAAAD]
+6/7/2022, 10:06:35 PM - DEBUG - auth.service - login with email: alex@1234
+6/7/2022, 10:06:37 PM - INFO - User login:  | {"_id":"629f86e755e7e583357d8699","email":"alex@1234","firstName":"Alex","lastName":"Yakovlev","isSocial":false,"imgUrl":null}
+6/7/2022, 10:06:37 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: OCBD4C__PAAn0EqVAAAD]
+6/7/2022, 10:06:41 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:06:42 PM - INFO - New connected socket [id: I1C4LiGtkZ86PhFGAAAF]
+6/7/2022, 10:06:43 PM - INFO - Setting socket.userId = null for socket [id: I1C4LiGtkZ86PhFGAAAF]
+6/7/2022, 10:07:44 PM - INFO - Req was made
+6/7/2022, 10:07:47 PM - INFO - Removing socket.userId for socket [id: I1C4LiGtkZ86PhFGAAAF]
+6/7/2022, 10:07:51 PM - DEBUG - auth.service - login with email: alex@1234
+6/7/2022, 10:07:51 PM - INFO - User login:  | {"_id":"629f86e755e7e583357d8699","email":"alex@1234","firstName":"Alex","lastName":"Yakovlev","isSocial":false,"imgUrl":null}
+6/7/2022, 10:07:51 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: I1C4LiGtkZ86PhFGAAAF]
+6/7/2022, 10:07:54 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:07:55 PM - INFO - New connected socket [id: BN081lX1bSM3f8R1AAAH]
+6/7/2022, 10:07:56 PM - INFO - Setting socket.userId = null for socket [id: BN081lX1bSM3f8R1AAAH]
+6/7/2022, 10:08:38 PM - INFO - Removing socket.userId for socket [id: BN081lX1bSM3f8R1AAAH]
+6/7/2022, 10:08:45 PM - DEBUG - auth.service - login with email: alex@1234
+6/7/2022, 10:08:45 PM - INFO - User login:  | {"_id":"629f86e755e7e583357d8699","email":"alex@1234","firstName":"Alex","lastName":"Yakovlev","isSocial":false,"imgUrl":null}
+6/7/2022, 10:08:45 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: BN081lX1bSM3f8R1AAAH]
+6/7/2022, 10:08:49 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:08:50 PM - INFO - New connected socket [id: h8GhEarV3cG75NObAAAJ]
+6/7/2022, 10:08:51 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: h8GhEarV3cG75NObAAAJ]
+6/7/2022, 10:08:56 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:08:57 PM - INFO - New connected socket [id: K7V6phoyVmU2HYa3AAAL]
+6/7/2022, 10:08:58 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: K7V6phoyVmU2HYa3AAAL]
+6/7/2022, 10:09:42 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:09:44 PM - INFO - New connected socket [id: a-gYxk7kVwnER2o3AAAN]
+6/7/2022, 10:09:44 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: a-gYxk7kVwnER2o3AAAN]
+6/7/2022, 10:09:46 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:09:48 PM - INFO - New connected socket [id: 8hdi6jluFAJgq4rpAAAP]
+6/7/2022, 10:09:48 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: 8hdi6jluFAJgq4rpAAAP]
+6/7/2022, 10:10:11 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:10:13 PM - INFO - New connected socket [id: j7gZzZ5qahtmo84cAAAR]
+6/7/2022, 10:10:13 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: j7gZzZ5qahtmo84cAAAR]
+6/7/2022, 10:10:15 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:10:16 PM - INFO - New connected socket [id: CWjBYYk5zt8Le6T0AAAT]
+6/7/2022, 10:10:17 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: CWjBYYk5zt8Le6T0AAAT]
