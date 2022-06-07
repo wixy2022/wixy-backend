@@ -24,6 +24,19 @@ function setupSocketAPI(http) {
             socket.join(wapId)
             socket.mywapId = wapId
         })
+        socket.on('visit published wap', async wapId => {
+            if (socket.myWap === wapId) return
+            if (socket.mywapId) {
+                socket.leave(socket.mywapId)
+                logger.info(`Socket is leaving wapId ${socket.mywapId} [id: ${socket.id}]`)
+            }
+            socket.join(wapId)
+            socket.mywapId = wapId
+            let wap = await wapService.getById(wapId)
+            wap = { ...wap, visitors: wap.visitors + 1 || 1 } // TODO - check
+            wapService.update(wap)
+            socket.broadcast.emit('visited was added', wap)
+        })
         socket.on('edit wap', wap => {
             logger.info(`Wap was edit by socket [id: ${socket.id}], emitting to wapId ${socket.mywapId}`)
             // emits to all sockets:
@@ -39,7 +52,7 @@ function setupSocketAPI(http) {
         socket.on('on-mouse-move', data => {
             // data.id = id;
             socket.broadcast.emit("guest-mouse-move", data);
-          })
+        })
         socket.on('user-watch', userId => {
             logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
             socket.join('watching:' + userId)

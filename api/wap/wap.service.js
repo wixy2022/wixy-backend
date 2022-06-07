@@ -14,13 +14,13 @@ module.exports = {
 
 async function query(filterBy) {
     let criteria = _buildCriteria(filterBy)
-    
+
     /* no use of filterBy for now */
 
     try {
         const collection = await dbService.getCollection('wap')
         let waps = await collection.find(criteria)
-        
+
         waps = await waps.toArray()
         console.log(waps)
 
@@ -40,6 +40,7 @@ async function getById(wapId) {
     try {
         const collection = await dbService.getCollection('wap')
         const wap = await collection.findOne({ _id: ObjectId(wapId) })
+        if (!wap) throw err
         wap.createdAt = ObjectId(wap._id).getTimestamp()
         return wap
     } catch (err) {
@@ -60,7 +61,7 @@ async function add(wap) {
 }
 
 async function update(wap) {
-    console.log(wap)
+    console.log(wap, 'UPDATE')
     try {
         const collection = await dbService.getCollection('wap')
 
@@ -73,7 +74,8 @@ async function update(wap) {
                     imgUrl: wap.imgUrl,
                     description: wap.description,
                     cmps: wap.cmps,
-                    leads:wap.leads||[]
+                    leads: wap.leads || [],
+                    visitors: wap.visitors
                 }
             }
         )
@@ -131,11 +133,11 @@ async function remove(wapId) {
 }
 function _buildCriteria(filterBy) {
     const criteria = {}
-   console.log(filterBy.userId)
-    
+    console.log(filterBy.userId)
+
     if (filterBy.userId) {
         criteria.creator = ObjectId(filterBy.userId)
     }
-    
+
     return criteria
 }
