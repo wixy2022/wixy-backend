@@ -7,7 +7,6 @@ module.exports = {
     getById,
     add,
     update,
-    // AddToChat,
     remove,
     updateWap
 }
@@ -22,7 +21,6 @@ async function query(filterBy) {
         let waps = await collection.find(criteria)
 
         waps = await waps.toArray()
-        console.log(waps)
 
         waps = waps.map(wap => {
             wap.createdAt = ObjectId(wap._id).getTimestamp()
@@ -61,7 +59,6 @@ async function add(wap) {
 }
 
 async function update(wap) {
-    console.log(wap, 'UPDATE')
     try {
         const collection = await dbService.getCollection('wap')
 
@@ -101,26 +98,6 @@ async function updateWap(wapId, wap) {
     }
 }
 
-// async function AddToChat(wapId, msg) {
-//     try {
-//         const collection = await dbService.getCollection('wap')
-//         const wap = await collection.findOne({ _id: ObjectId(wapId) })
-//         const chat = wap.chat ? [...wap.chat, msg] : [msg]
-
-//         collection.updateOne(
-//             { _id: ObjectId(wapId) },
-//             {
-//                 $set: {
-//                     chat
-//                 }
-//             }
-//         )
-//     } catch (err) {
-//         console.log(`ERROR: cannot updateChat of wap ${wap._id}`)
-//         throw err
-//     }
-// }
-
 async function remove(wapId) {
     try {
         const collection = await dbService.getCollection('wap')
@@ -133,7 +110,6 @@ async function remove(wapId) {
 }
 function _buildCriteria(filterBy) {
     const criteria = {}
-    console.log(filterBy.userId)
 
     if (filterBy.userId) {
         criteria.creator = ObjectId(filterBy.userId)

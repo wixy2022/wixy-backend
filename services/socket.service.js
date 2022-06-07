@@ -33,7 +33,7 @@ function setupSocketAPI(http) {
             socket.join(wapId)
             socket.mywapId = wapId
             let wap = await wapService.getById(wapId)
-            wap = { ...wap, visitors: wap.visitors + 1 || 1 } // TODO - check
+            wap = { ...wap, visitors: wap.visitors + 1 || 1 }
             wapService.update(wap)
             socket.broadcast.emit('visited was added', wap)
         })
@@ -66,10 +66,10 @@ function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
-        socket.on('lead-added',async wapId=>{
-            const wap = await wapService.getById(wapId)
+        socket.on('lead-added', async wap => {
             const creatorId = await wap.creator.toString()
-            gIo.to(creatorId).emit('lead-notification',wapId)
+            gIo.to(creatorId).emit('lead-notification', wap._id)
+            socket.broadcast.emit('lead was added', wap)
         })
     })
 }
