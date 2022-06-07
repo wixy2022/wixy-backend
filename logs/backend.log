@@ -138,3 +138,12 @@
 6/7/2022, 10:10:15 PM - INFO - Socket disconnected [id: undefined]
 6/7/2022, 10:10:16 PM - INFO - New connected socket [id: CWjBYYk5zt8Le6T0AAAT]
 6/7/2022, 10:10:17 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: CWjBYYk5zt8Le6T0AAAT]
+6/7/2022, 11:16:45 PM - INFO - New connected socket [id: eH0nMM7OF__4rfENAAAB]
+6/7/2022, 11:16:45 PM - INFO - Setting socket.userId = null for socket [id: eH0nMM7OF__4rfENAAAB]
+6/7/2022, 11:16:50 PM - INFO - Removing socket.userId for socket [id: eH0nMM7OF__4rfENAAAB]
+6/7/2022, 11:16:50 PM - INFO - New connected socket [id: 6inwGrDhG86HgyamAAAD]
+6/7/2022, 11:16:54 PM - DEBUG - auth.service - login with email: alex@1234
+6/7/2022, 11:16:55 PM - INFO - User login:  | {"_id":"629f86e755e7e583357d8699","email":"alex@1234","firstName":"Alex","lastName":"Yakovlev","isSocial":false,"imgUrl":null}
+6/7/2022, 11:16:55 PM - INFO - Setting socket.userId = 629f86e755e7e583357d8699 for socket [id: eH0nMM7OF__4rfENAAAB]
+6/7/2022, 11:16:58 PM - INFO - Req was made
+6/7/2022, 11:35:19 PM - INFO - Socket disconnected [id: undefined]
