@@ -46,11 +46,17 @@ function setupSocketAPI(http) {
         })
         socket.on('set-user-socket', userId => {
             logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
+            socket.join(userId)
             socket.userId = userId
         })
         socket.on('unset-user-socket', () => {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
+        })
+        socket.on('lead-added',async wapId=>{
+            const wap = await wapService.getById(wapId)
+            const creatorId = await wap.creator.toString()
+            gIo.to(creatorId).emit('lead-notification',wapId)
         })
     })
 }

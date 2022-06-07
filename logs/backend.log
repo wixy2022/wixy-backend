@@ -4833,3 +4833,416 @@
 6/7/2022, 2:14:55 AM - INFO - New connected socket [id: _4hybeS5trhOl6YTAAAF]
 6/7/2022, 2:14:57 AM - INFO - Socket disconnected [id: undefined]
 6/7/2022, 2:14:57 AM - INFO - New connected socket [id: mym4d1kwOcYz1Vq8AAAH]
+6/7/2022, 10:26:57 AM - INFO - New connected socket [id: 9P2GQDpU9wlizTOCAAAB]
+6/7/2022, 10:42:01 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:42:02 AM - INFO - New connected socket [id: zVPSBo3a3Bcfd0hYAAAD]
+6/7/2022, 10:42:42 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:42:42 AM - INFO - New connected socket [id: YDevM_pl15cSOssVAAAF]
+6/7/2022, 10:42:49 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:42:50 AM - INFO - New connected socket [id: 8HmJ9voTH5-K60MqAAAH]
+6/7/2022, 10:51:27 AM - INFO - New connected socket [id: WYqTk2D7LIydzd8tAAAJ]
+6/7/2022, 10:51:47 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:51:47 AM - INFO - New connected socket [id: PN8VlNO6luPgX7RfAAAL]
+6/7/2022, 10:51:56 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:52:07 AM - INFO - New connected socket [id: Ah30ybAhRDCgfbetAAAN]
+6/7/2022, 10:55:26 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:55:26 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:55:27 AM - INFO - New connected socket [id: Lv8TwyA5nmcihBnxAAAQ]
+6/7/2022, 10:55:27 AM - INFO - New connected socket [id: rIbcrfm3YkVyy0FvAAAR]
+6/7/2022, 10:57:47 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:58:01 AM - INFO - New connected socket [id: izUVsQCeq-Ai9YLEAAAT]
+6/7/2022, 10:58:12 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:58:12 AM - INFO - New connected socket [id: ZDuP8xNmZhDRHc_ZAAAV]
+6/7/2022, 10:58:43 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:58:44 AM - INFO - New connected socket [id: 7fiuqshKmpUlkawVAAAX]
+6/7/2022, 10:59:01 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:59:03 AM - INFO - New connected socket [id: FURe49cmBknBggeNAAAZ]
+6/7/2022, 10:59:42 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:59:43 AM - INFO - New connected socket [id: iXaBtoyoO8P8jgIMAAAb]
+6/7/2022, 10:59:51 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 10:59:53 AM - INFO - New connected socket [id: VienBTI38BwSTMnMAAAd]
+6/7/2022, 11:00:50 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 11:00:52 AM - INFO - New connected socket [id: NtRm4AGJ6xwk-uZPAAAf]
+6/7/2022, 11:00:59 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 11:01:15 AM - INFO - New connected socket [id: k2T5T7Pd8mh2vCBlAAAh]
+6/7/2022, 11:03:24 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 11:03:24 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 11:03:26 AM - INFO - New connected socket [id: TtKKKQVmEFivt8UtAAAk]
+6/7/2022, 11:03:26 AM - INFO - New connected socket [id: 7_9mx9WFKdCdT3DxAAAl]
+6/7/2022, 11:04:19 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 11:04:19 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 11:04:21 AM - INFO - New connected socket [id: C4HYoRr3bwwYwzqiAAAo]
+6/7/2022, 11:04:21 AM - INFO - New connected socket [id: pPt1RntNvoLhVNj3AAAp]
+6/7/2022, 11:04:30 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 11:04:31 AM - INFO - New connected socket [id: FL2HomgSMxHMw-zqAAAr]
+6/7/2022, 11:05:15 AM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 11:05:17 AM - INFO - New connected socket [id: TptCDocatzqph_5WAAAt]
+6/7/2022, 11:49:32 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 11:49:36 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 11:49:56 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 11:49:57 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 11:50:02 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 11:50:15 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 11:50:25 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 11:51:09 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 11:53:09 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 11:53:10 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 11:53:51 AM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:00:09 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:00:17 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:01:34 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:01:42 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:02:24 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:02:27 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:02:45 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:02:51 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:03:24 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:03:26 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:03:27 PM - INFO - Wap was edit by socket [id: C4HYoRr3bwwYwzqiAAAo], emitting to wapId null
+6/7/2022, 12:04:15 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 12:04:17 PM - INFO - New connected socket [id: yYINl9HH4mK2FjTFAAAv]
+6/7/2022, 12:04:48 PM - INFO - Wap was edit by socket [id: yYINl9HH4mK2FjTFAAAv], emitting to wapId null
+6/7/2022, 12:31:31 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 12:31:33 PM - INFO - New connected socket [id: -jrFE_WnEmJGsFiyAAAx]
+6/7/2022, 12:50:04 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 12:50:04 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 12:50:06 PM - INFO - New connected socket [id: MgIx889OQKY1-T9BAAAz]
+6/7/2022, 12:50:06 PM - INFO - New connected socket [id: Hw5ayJCmXs4T3Q7EAAA1]
+6/7/2022, 2:28:24 PM - INFO - New connected socket [id: n-7yg1RyI1mHFNC8AAAC]
+6/7/2022, 2:28:24 PM - INFO - New connected socket [id: cqRFc2gWuZUhEom-AAAD]
+6/7/2022, 2:37:02 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 2:37:13 PM - INFO - New connected socket [id: VVH5KqqzrwDomx2hAAAF]
+6/7/2022, 2:43:47 PM - INFO - New connected socket [id: EQCC759BMDSZf3y5AAAC]
+6/7/2022, 2:43:47 PM - INFO - New connected socket [id: t9E19gF8ha2Z3pxGAAAD]
+6/7/2022, 2:43:59 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 2:43:59 PM - INFO - New connected socket [id: 44LztXpMtKbI0mZaAAAF]
+6/7/2022, 2:44:28 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:44:37 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:44:39 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:44:42 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:44:49 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:45:02 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:45:05 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:45:11 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:45:17 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:45:36 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:46:00 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 2:46:00 PM - INFO - User login:  | {"email":"1yakovlevalex@gmail.com","firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c","_id":"629f3a78bd16d35eeac4fd8a"}
+6/7/2022, 2:46:06 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:46:15 PM - INFO - Req was made
+6/7/2022, 2:46:33 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:46:42 PM - INFO - New connected socket [id: a1M9zWKjyMsyX5i3AAAH]
+6/7/2022, 2:52:30 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 2:52:54 PM - INFO - Wap was edit by socket [id: 44LztXpMtKbI0mZaAAAF], emitting to wapId null
+6/7/2022, 2:54:23 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 2:54:25 PM - INFO - New connected socket [id: dsVeB5lx6mdrfxbDAAAJ]
+6/7/2022, 3:14:29 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:14:29 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:14:30 PM - INFO - New connected socket [id: MBV62SBDkcnMtnp_AAAM]
+6/7/2022, 3:14:30 PM - INFO - New connected socket [id: v3JZZ7pg2_UwBuPtAAAN]
+6/7/2022, 3:20:44 PM - INFO - New connected socket [id: XALgi7MSbepNbsp0AAAC]
+6/7/2022, 3:20:44 PM - INFO - New connected socket [id: tFhkLbESRPiEV_5aAAAD]
+6/7/2022, 3:24:22 PM - INFO - New connected socket [id: 01zkMzgm2ZxvW5-_AAAB]
+6/7/2022, 3:24:23 PM - INFO - New connected socket [id: EL9O8fFuMcwpCvgTAAAD]
+6/7/2022, 3:24:26 PM - INFO - New connected socket [id: ZlRfbXcZhxMK9l0EAAAB]
+6/7/2022, 3:24:26 PM - INFO - New connected socket [id: ToeRAxmsgfz6-L04AAAD]
+6/7/2022, 3:24:57 PM - INFO - Wap was edit by socket [id: ZlRfbXcZhxMK9l0EAAAB], emitting to wapId null
+6/7/2022, 3:25:05 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 3:25:05 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 3:25:08 PM - INFO - Req was made
+6/7/2022, 3:25:14 PM - INFO - Wap was edit by socket [id: ZlRfbXcZhxMK9l0EAAAB], emitting to wapId null
+6/7/2022, 3:25:24 PM - INFO - New connected socket [id: OtEt4T4IhuD4N8rMAAAF]
+6/7/2022, 3:26:56 PM - INFO - New connected socket [id: ZdEYe_muU8TVihyXAAAB]
+6/7/2022, 3:26:56 PM - INFO - New connected socket [id: 6zbHaghFFrWscmWTAAAE]
+6/7/2022, 3:26:56 PM - INFO - New connected socket [id: OM7Zcr-uVaq0yNouAAAF]
+6/7/2022, 3:26:59 PM - INFO - New connected socket [id: 83L86LDKP6X0roYJAAAB]
+6/7/2022, 3:27:00 PM - INFO - New connected socket [id: 2axMS3jzh523667bAAAE]
+6/7/2022, 3:27:00 PM - INFO - New connected socket [id: 50BSUdfrwtiCxmuGAAAF]
+6/7/2022, 3:28:11 PM - INFO - New connected socket [id: tBGnd10_bMeaVLEiAAAD]
+6/7/2022, 3:28:11 PM - INFO - New connected socket [id: 2kKuDB06h6AkTcXYAAAE]
+6/7/2022, 3:28:11 PM - INFO - New connected socket [id: -qEPBFPy_by2bnbfAAAF]
+6/7/2022, 3:28:57 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:28:59 PM - INFO - New connected socket [id: _O_7HWkW35Wg8tAMAAAH]
+6/7/2022, 3:28:59 PM - ERROR - while finding wap qEPBFPy_by2bnbfAAAF | {}
+6/7/2022, 3:28:59 PM - ERROR - Failed to get wap | {}
+6/7/2022, 3:28:59 PM - ERROR - while finding wap qEPBFPy_by2bnbfAAAF | {}
+6/7/2022, 3:28:59 PM - ERROR - Failed to get wap | {}
+6/7/2022, 3:29:05 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:30:43 PM - INFO - New connected socket [id: Hna_4Sex4IkAyFOcAAAB]
+6/7/2022, 3:30:44 PM - INFO - New connected socket [id: cfZPuocjl65tdk_uAAAD]
+6/7/2022, 3:30:47 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:30:48 PM - INFO - New connected socket [id: gOvnIDHJBOe2LkC2AAAF]
+6/7/2022, 3:31:05 PM - INFO - Wap was edit by socket [id: gOvnIDHJBOe2LkC2AAAF], emitting to wapId null
+6/7/2022, 3:31:17 PM - INFO - Wap was edit by socket [id: gOvnIDHJBOe2LkC2AAAF], emitting to wapId null
+6/7/2022, 3:31:27 PM - INFO - Wap was edit by socket [id: gOvnIDHJBOe2LkC2AAAF], emitting to wapId null
+6/7/2022, 3:31:30 PM - INFO - New connected socket [id: 04P3FvwHn0WjIUljAAAH]
+6/7/2022, 3:33:35 PM - INFO - New connected socket [id: U01iPd99zs0SRDv7AAAB]
+6/7/2022, 3:33:36 PM - INFO - New connected socket [id: YgHU_YcuTco5lmVyAAAD]
+6/7/2022, 3:33:36 PM - INFO - New connected socket [id: VnVtARCv__7I2eHkAAAF]
+6/7/2022, 3:34:03 PM - INFO - New connected socket [id: fqtLu-z55WKep0SEAAAB]
+6/7/2022, 3:34:03 PM - INFO - New connected socket [id: xsFF3IU3o-w1-_cSAAAD]
+6/7/2022, 3:34:04 PM - INFO - New connected socket [id: B44hbqlBD5aTrbXrAAAF]
+6/7/2022, 3:35:07 PM - INFO - New connected socket [id: fi_cpiaIFVO4-5jrAAAB]
+6/7/2022, 3:35:08 PM - INFO - New connected socket [id: KOBgYHuTCcwkd8PRAAAE]
+6/7/2022, 3:35:08 PM - INFO - New connected socket [id: YyRiO4jtHhJjgFtoAAAF]
+6/7/2022, 3:38:11 PM - INFO - New connected socket [id: OBs3pwL-HTYClrwfAAAB]
+6/7/2022, 3:38:11 PM - INFO - New connected socket [id: Daqs8XHMkqnMa3UGAAAE]
+6/7/2022, 3:38:11 PM - INFO - New connected socket [id: XkrDRDDyavJpkMPHAAAF]
+6/7/2022, 3:38:23 PM - INFO - New connected socket [id: ysIqq7M2Qxu4B2ZRAAAD]
+6/7/2022, 3:38:23 PM - INFO - New connected socket [id: LYEs7YsbqWow4L62AAAE]
+6/7/2022, 3:38:23 PM - INFO - New connected socket [id: U3iZ9blIJq-IOvZkAAAF]
+6/7/2022, 3:39:09 PM - INFO - New connected socket [id: Pmjlzeh10Ymq2WVLAAAB]
+6/7/2022, 3:39:09 PM - INFO - New connected socket [id: 9zGcfkaZRMYG0N_EAAAD]
+6/7/2022, 3:39:13 PM - INFO - New connected socket [id: MZ0dTZler8WBlhIdAAAF]
+6/7/2022, 3:39:27 PM - INFO - New connected socket [id: ODxA3yr_8DJ2XBLaAAAD]
+6/7/2022, 3:39:27 PM - INFO - New connected socket [id: stfnHeLqkNLF-0GlAAAE]
+6/7/2022, 3:39:27 PM - INFO - New connected socket [id: tpetA2NxhomWfc8GAAAF]
+6/7/2022, 3:39:54 PM - INFO - New connected socket [id: Y6kYGcmETBTISq7IAAAC]
+6/7/2022, 3:39:54 PM - INFO - New connected socket [id: vyxj9MNc0d9AGISaAAAD]
+6/7/2022, 3:39:55 PM - INFO - New connected socket [id: t4j3Tb65OFuFPSDBAAAF]
+6/7/2022, 3:40:35 PM - INFO - New connected socket [id: x-BcGAgN6Sh3R8TxAAAC]
+6/7/2022, 3:40:35 PM - INFO - New connected socket [id: 84Lv6w_qiiD-jdEEAAAD]
+6/7/2022, 3:40:35 PM - INFO - New connected socket [id: Mu523j-zTMOnNtdSAAAF]
+6/7/2022, 3:41:47 PM - INFO - New connected socket [id: lg2Tu8UH3lb91mQLAAAC]
+6/7/2022, 3:41:47 PM - INFO - New connected socket [id: 8SH8LLfWHbKeyFD_AAAD]
+6/7/2022, 3:41:48 PM - INFO - New connected socket [id: GNS0yiDcWMWiupBCAAAF]
+6/7/2022, 3:41:51 PM - INFO - New connected socket [id: 2a_uHwLboHNcgro2AAAC]
+6/7/2022, 3:41:51 PM - INFO - New connected socket [id: V2RBPUWBrLjIhPSBAAAD]
+6/7/2022, 3:41:52 PM - INFO - New connected socket [id: TnnZK1-mEK8Dkd9YAAAF]
+6/7/2022, 3:42:23 PM - INFO - New connected socket [id: LnFfiMNgzLKn2_0eAAAB]
+6/7/2022, 3:42:23 PM - INFO - New connected socket [id: 9TfhabTBI9CP9gBEAAAE]
+6/7/2022, 3:42:23 PM - INFO - New connected socket [id: Q1R7okCazQ97qB2RAAAF]
+6/7/2022, 3:42:31 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:42:33 PM - INFO - New connected socket [id: rjbq6YA395CbABDtAAAH]
+6/7/2022, 3:43:11 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:48:03 PM - INFO - New connected socket [id: 5XYmUEAaTyxojgqsAAAC]
+6/7/2022, 3:48:03 PM - INFO - New connected socket [id: Cn2fqbfh4MPbdH7BAAAD]
+6/7/2022, 3:48:50 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:48:50 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:48:52 PM - INFO - New connected socket [id: un6LhJ223SNKThQMAAAG]
+6/7/2022, 3:48:52 PM - INFO - New connected socket [id: Lm7C2rx7xdesX4pIAAAH]
+6/7/2022, 3:49:05 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 3:49:05 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 3:51:49 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:51:49 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:51:50 PM - INFO - New connected socket [id: eVbgdd2gRH_ZrVQ2AAAK]
+6/7/2022, 3:51:50 PM - INFO - New connected socket [id: FG1eO6PrpSjkn-5CAAAL]
+6/7/2022, 3:52:02 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 3:52:02 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 3:52:02 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: eVbgdd2gRH_ZrVQ2AAAK]
+6/7/2022, 3:52:37 PM - INFO - Wap was edit by socket [id: eVbgdd2gRH_ZrVQ2AAAK], emitting to wapId null
+6/7/2022, 3:52:44 PM - INFO - New connected socket [id: vhFS-Z65OEEjpTJFAAAN]
+6/7/2022, 3:53:41 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:53:41 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:53:41 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:53:42 PM - INFO - New connected socket [id: RTB5NoiGXuSD91rrAAAP]
+6/7/2022, 3:53:43 PM - INFO - New connected socket [id: RzMDhGKr42p91jHoAAAS]
+6/7/2022, 3:53:43 PM - INFO - New connected socket [id: nw4i83n_3TVJtYgRAAAT]
+6/7/2022, 3:54:06 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:54:07 PM - INFO - New connected socket [id: k--3NJOlL50vHXmXAAAV]
+6/7/2022, 3:54:27 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 3:54:27 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 3:54:27 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: k--3NJOlL50vHXmXAAAV]
+6/7/2022, 3:57:05 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:57:05 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:57:05 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 3:57:07 PM - INFO - New connected socket [id: spK_SFCJ-xxLEwZVAAAZ]
+6/7/2022, 3:57:07 PM - INFO - New connected socket [id: vjhGwI-q-ZeE7YoYAAAa]
+6/7/2022, 3:57:07 PM - INFO - New connected socket [id: tTwUgW_i1j7LOjdNAAAb]
+6/7/2022, 3:57:08 PM - INFO - Setting socket.userId = null for socket [id: vjhGwI-q-ZeE7YoYAAAa]
+6/7/2022, 3:57:08 PM - INFO - Setting socket.userId = null for socket [id: spK_SFCJ-xxLEwZVAAAZ]
+6/7/2022, 3:57:08 PM - INFO - Setting socket.userId = null for socket [id: tTwUgW_i1j7LOjdNAAAb]
+6/7/2022, 4:01:40 PM - ERROR - while finding wap 629f4498b1d47c87eb511710 | {}
+6/7/2022, 4:01:40 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:01:40 PM - ERROR - while finding wap 629f4a122a1abf99ef77e482 | {}
+6/7/2022, 4:01:40 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:05:51 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:05:51 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:05:51 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:05:53 PM - INFO - New connected socket [id: VxuWTaryG2tAmClhAAAd]
+6/7/2022, 4:05:53 PM - INFO - Setting socket.userId = null for socket [id: VxuWTaryG2tAmClhAAAd]
+6/7/2022, 4:05:53 PM - INFO - New connected socket [id: lnmFXGSYpE3f2BY1AAAg]
+6/7/2022, 4:05:54 PM - INFO - New connected socket [id: sU50z4LNOCqNgXNaAAAh]
+6/7/2022, 4:05:54 PM - ERROR - while finding wap 629f4498b1d47c87eb511710 | {}
+6/7/2022, 4:05:54 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:05:54 PM - ERROR - while finding wap 629f4498b1d47c87eb511710 | {}
+6/7/2022, 4:05:54 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:05:54 PM - INFO - Setting socket.userId = null for socket [id: lnmFXGSYpE3f2BY1AAAg]
+6/7/2022, 4:05:54 PM - INFO - Setting socket.userId = null for socket [id: sU50z4LNOCqNgXNaAAAh]
+6/7/2022, 4:05:54 PM - ERROR - while finding wap 629f4a122a1abf99ef77e482 | {}
+6/7/2022, 4:05:54 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:05:54 PM - ERROR - while finding wap 629f4a122a1abf99ef77e482 | {}
+6/7/2022, 4:05:54 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:06:00 PM - INFO - Removing socket.userId for socket [id: VxuWTaryG2tAmClhAAAd]
+6/7/2022, 4:06:06 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:06:06 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:06:06 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: VxuWTaryG2tAmClhAAAd]
+6/7/2022, 4:06:32 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:06:32 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:06:32 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:06:33 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:06:33 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:06:33 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:06:33 PM - ERROR - while finding wap 629f4a122a1abf99ef77e482 | {}
+6/7/2022, 4:06:33 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:06:33 PM - ERROR - while finding wap 629f4498b1d47c87eb511710 | {}
+6/7/2022, 4:06:33 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:06:36 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:06:38 PM - INFO - New connected socket [id: GqciKEWpZ1ucPA60AAAj]
+6/7/2022, 4:06:38 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:06:38 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:06:38 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: GqciKEWpZ1ucPA60AAAj]
+6/7/2022, 4:06:45 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:06:47 PM - INFO - New connected socket [id: GB88msbmIycqLIAkAAAl]
+6/7/2022, 4:06:47 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:06:47 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:06:47 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: GB88msbmIycqLIAkAAAl]
+6/7/2022, 4:07:52 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:07:54 PM - INFO - New connected socket [id: o-m06ge8fhX5-MfQAAAn]
+6/7/2022, 4:07:54 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:07:54 PM - ERROR - while finding wap 629f4498b1d47c87eb511710 | {}
+6/7/2022, 4:07:54 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:07:54 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:07:54 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: o-m06ge8fhX5-MfQAAAn]
+6/7/2022, 4:07:54 PM - ERROR - while finding wap 629f4498b1d47c87eb511710 | {}
+6/7/2022, 4:07:54 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:07:56 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:08:00 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:08:00 PM - INFO - New connected socket [id: CMq7PeW8VTPspuPxAAAp]
+6/7/2022, 4:08:01 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:08:01 PM - ERROR - while finding wap 629f4a122a1abf99ef77e482 | {}
+6/7/2022, 4:08:01 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:08:01 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: CMq7PeW8VTPspuPxAAAp]
+6/7/2022, 4:08:01 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:08:01 PM - ERROR - while finding wap 629f4a122a1abf99ef77e482 | {}
+6/7/2022, 4:08:01 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:08:03 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:08:17 PM - INFO - Req was made
+6/7/2022, 4:09:13 PM - INFO - Wap was edit by socket [id: GB88msbmIycqLIAkAAAl], emitting to wapId null
+6/7/2022, 4:09:22 PM - INFO - New connected socket [id: 9FSNw0G53dfWFb4pAAAr]
+6/7/2022, 4:09:22 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:09:22 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:09:22 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: 9FSNw0G53dfWFb4pAAAr]
+6/7/2022, 4:14:20 PM - INFO - New connected socket [id: kRgkkB5t0gVhAKm3AAAC]
+6/7/2022, 4:14:20 PM - INFO - New connected socket [id: aKnFdJyt63Neqj0pAAAD]
+6/7/2022, 4:14:37 PM - INFO - New connected socket [id: SqOIqxLUTG5eBPy7AAAC]
+6/7/2022, 4:14:37 PM - INFO - New connected socket [id: mW9RVFA-jwi4KCMTAAAD]
+6/7/2022, 4:14:53 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:14:53 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:14:55 PM - INFO - New connected socket [id: ao8b1Zwtt5fb4jsxAAAG]
+6/7/2022, 4:14:55 PM - INFO - New connected socket [id: QWlI7myrAd_v68ZRAAAH]
+6/7/2022, 4:14:56 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:14:56 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:14:56 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: QWlI7myrAd_v68ZRAAAH]
+6/7/2022, 4:14:56 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: ao8b1Zwtt5fb4jsxAAAG]
+6/7/2022, 4:14:57 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:14:57 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:14:57 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:14:57 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:14:58 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:14:58 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:14:58 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:14:58 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:14:58 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:14:58 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:18:08 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:18:08 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:18:10 PM - INFO - New connected socket [id: rlcsJNbgXF9_4_K7AAAK]
+6/7/2022, 4:18:10 PM - INFO - New connected socket [id: y0FY-nXUpFS8lKQ4AAAL]
+6/7/2022, 4:18:11 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:18:11 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:18:11 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:18:11 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:18:11 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:18:11 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: rlcsJNbgXF9_4_K7AAAK]
+6/7/2022, 4:18:11 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:18:11 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: y0FY-nXUpFS8lKQ4AAAL]
+6/7/2022, 4:18:11 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:18:11 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:18:11 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:18:11 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:18:12 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:18:12 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:18:35 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:18:35 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:18:37 PM - INFO - New connected socket [id: kjak8cTYpWvagdaPAAAO]
+6/7/2022, 4:18:37 PM - INFO - New connected socket [id: bC7R9Z7AIc1w_hyhAAAP]
+6/7/2022, 4:18:37 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:18:37 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:18:37 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:18:38 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:18:38 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:18:38 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:18:38 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: bC7R9Z7AIc1w_hyhAAAP]
+6/7/2022, 4:18:38 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: kjak8cTYpWvagdaPAAAO]
+6/7/2022, 4:18:38 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:18:38 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:18:38 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:18:38 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:18:39 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:18:39 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:18:59 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:18:59 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:19:01 PM - INFO - New connected socket [id: AcNmcAS8O9s6LFsRAAAS]
+6/7/2022, 4:19:01 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:19:02 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:19:02 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:19:02 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:19:02 PM - INFO - New connected socket [id: CwSdGXmp1XuDD9UaAAAT]
+6/7/2022, 4:19:02 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:19:02 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: AcNmcAS8O9s6LFsRAAAS]
+6/7/2022, 4:19:02 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:19:02 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:19:02 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:19:02 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: CwSdGXmp1XuDD9UaAAAT]
+6/7/2022, 4:19:03 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:19:03 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:19:03 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:19:03 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:19:09 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:19:11 PM - INFO - New connected socket [id: uGSwh2bSIgQBMtU6AAAV]
+6/7/2022, 4:19:11 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:19:11 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:19:11 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:19:11 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:19:11 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: uGSwh2bSIgQBMtU6AAAV]
+6/7/2022, 4:19:11 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:19:11 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:19:16 PM - INFO - Req was made
+6/7/2022, 4:19:27 PM - INFO - Wap was edit by socket [id: AcNmcAS8O9s6LFsRAAAS], emitting to wapId null
+6/7/2022, 4:19:30 PM - INFO - Wap was edit by socket [id: AcNmcAS8O9s6LFsRAAAS], emitting to wapId null
+6/7/2022, 4:19:37 PM - INFO - Req was made
+6/7/2022, 4:19:48 PM - INFO - New connected socket [id: 920xNK0HLlzeEk7GAAAX]
+6/7/2022, 4:19:48 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:19:48 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:19:48 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: 920xNK0HLlzeEk7GAAAX]
+6/7/2022, 4:20:43 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:20:43 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:20:43 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:20:45 PM - INFO - New connected socket [id: 8x63k2H_AhLuMThjAAAZ]
+6/7/2022, 4:20:45 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:20:46 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: 8x63k2H_AhLuMThjAAAZ]
+6/7/2022, 4:20:46 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:20:46 PM - INFO - New connected socket [id: 2THlO2-VLrPmlFwEAAAc]
+6/7/2022, 4:20:46 PM - INFO - New connected socket [id: pYc5sZwxPLZorPwdAAAd]
+6/7/2022, 4:20:46 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:20:46 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: pYc5sZwxPLZorPwdAAAd]
+6/7/2022, 4:20:46 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:20:47 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:20:47 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:20:47 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: 2THlO2-VLrPmlFwEAAAc]
+6/7/2022, 4:20:47 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:20:47 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:20:47 PM - ERROR - while finding wap 629f4df42a1abf99ef77e483 | {}
+6/7/2022, 4:20:47 PM - ERROR - Failed to get wap | {}
+6/7/2022, 4:20:57 PM - INFO - New connected socket [id: iksuKpQznSh1hn4qAAAf]
+6/7/2022, 4:21:30 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:21:31 PM - INFO - New connected socket [id: 1DQ9mWN4iAzNlXQgAAAh]
+6/7/2022, 4:22:28 PM - DEBUG - auth.service - login with email: alex@1234
+6/7/2022, 4:22:28 PM - ERROR - Failed to Login Invalid username or password
+6/7/2022, 4:23:17 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:23:21 PM - INFO - Socket disconnected [id: undefined]
+6/7/2022, 4:23:22 PM - INFO - New connected socket [id: mb2Wg5uvxTRHIB25AAAj]
+6/7/2022, 4:23:22 PM - DEBUG - auth.service - login with email: 1yakovlevalex@gmail.com
+6/7/2022, 4:23:22 PM - INFO - User login:  | {"_id":"629f3a78bd16d35eeac4fd8a","email":"1yakovlevalex@gmail.com","password":null,"firstName":"אלכס","lastName":"יעקובלב","isSocial":true,"imgUrl":"https://lh3.googleusercontent.com/a-/AOh14Gj_q1j0NFyERbne5N1-Byoz5pueddmi1_Uz6vqUfQ=s96-c"}
+6/7/2022, 4:23:22 PM - INFO - Setting socket.userId = 629f3a78bd16d35eeac4fd8a for socket [id: mb2Wg5uvxTRHIB25AAAj]

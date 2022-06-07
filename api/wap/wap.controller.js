@@ -64,11 +64,9 @@ async function updateWap(req, res) {
         let savedWap
         if (data.hasOwnProperty('fullname')){
             const wap = await wapService.getById(data.wapId)
-            console.log(wap._id)
             wap.leads? wap.leads.push(data):wap.leads = [data]
             // console.log(wap,'|||||||||||||||||||||||||||||||||||||')
             savedWap = await wapService.update(wap, loggedInUser)
-            console.log(savedWap ,'|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||')
         }else{
              savedWap = await wapService.update(data, loggedInUser)
         }

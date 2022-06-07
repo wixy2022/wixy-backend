@@ -47,12 +47,14 @@ if (process.env.NODE_ENV === 'production') {
     app.use(bodyParser.json())
     app.use(cors(corsOptions))
 }
-app.post('/subscribe/:myParams?', (req, res) => {
+app.post('/subscribe/:Sss?', (req, res) => {
+    const {Sss} = req.params
     const subsciption = req.body
+
     console.log('hey im log')
-    const { title, body } = req.query
+    const { title, body ,wapId} = req.query
     res.status(201).json({})
-    const payload = JSON.stringify({ title, body })
+    const payload = JSON.stringify({ title, body,wapId })
     webpush.sendNotification(subsciption, payload).catch(err => console.error(err))
 })
 //routes
