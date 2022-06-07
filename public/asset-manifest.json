@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.69dc0bb9.css",
-    "main.js": "/static/js/main.d8b3e41b.js",
+    "main.css": "/static/css/main.451e1375.css",
+    "main.js": "/static/js/main.66a4ac75.js",
     "static/js/787.8b99940a.chunk.js": "/static/js/787.8b99940a.chunk.js",
+    "static/media/editor-instructions.gif": "/static/media/editor-instructions.0ff73e3063754ffd5fbe.gif",
     "static/media/NotoSansJP-Medium.otf": "/static/media/NotoSansJP-Medium.d16d41744b47638ce195.otf",
     "static/media/dramatic3.png": "/static/media/dramatic3.2195f8a97b28f8293084.png",
     "static/media/festive2.png": "/static/media/festive2.0cf92278d12b8494a1e7.png",
@@ -38,6 +39,7 @@
     "static/media/classic2.jpg": "/static/media/classic2.f4337792d30f750905a0.jpg",
     "static/media/dramatic4.jpg": "/static/media/dramatic4.c3876c6ee47956c559db.jpg",
     "static/media/AlfaSlabOne-Regular.ttf": "/static/media/AlfaSlabOne-Regular.76486fb5cc170dab15a5.ttf",
+    "static/media/home-page-hero.jpg": "/static/media/home-page-hero.a525e8bb06061b971781.jpg",
     "static/media/UnifrakturMaguntia-Regular.ttf": "/static/media/UnifrakturMaguntia-Regular.521503440d0fe1ab466f.ttf",
     "static/media/PermanentMarker-Regular.ttf": "/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
     "static/media/Heebo-VariableFont_wght.ttf": "/static/media/Heebo-VariableFont_wght.021fda4bbc4da0c21299.ttf",
@@ -59,12 +61,14 @@
     "static/media/Karla-SemiBold.ttf": "/static/media/Karla-SemiBold.f7707365f5b4c939b8f4.ttf",
     "static/media/ShadowsIntoLightTwo-Regular.ttf": "/static/media/ShadowsIntoLightTwo-Regular.13ccfdf7d1d9f9d1780b.ttf",
     "index.html": "/index.html",
-    "main.69dc0bb9.css.map": "/static/css/main.69dc0bb9.css.map",
-    "main.d8b3e41b.js.map": "/static/js/main.d8b3e41b.js.map",
+    "static/media/chevron-left-solid.svg": "/static/media/chevron-left-solid.7cbb7b474d7a0a1474cb.svg",
+    "static/media/chevron-right-solid.svg": "/static/media/chevron-right-solid.19fa583645a97d4a9fdb.svg",
+    "main.451e1375.css.map": "/static/css/main.451e1375.css.map",
+    "main.66a4ac75.js.map": "/static/js/main.66a4ac75.js.map",
     "787.8b99940a.chunk.js.map": "/static/js/787.8b99940a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69dc0bb9.css",
-    "static/js/main.d8b3e41b.js"
+    "static/css/main.451e1375.css",
+    "static/js/main.66a4ac75.js"
   ]
 }
