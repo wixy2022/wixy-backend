@@ -139,3 +139,91 @@
 8.6.2022, 0:15:49 - DEBUG - auth.service - login with email: puki@1234
 8.6.2022, 0:15:49 - INFO - Setting socket.userId = null for socket [id: b8cp5I9fnpZdjYDvAAAe]
 8.6.2022, 0:15:49 - ERROR - Failed to Login Invalid username or password
+8.6.2022, 0:28:03 - INFO - New connected socket [id: wf6RcIGLVmY21u7dAAAB]
+8.6.2022, 0:28:24 - INFO - Socket disconnected [id: undefined]
+8.6.2022, 0:29:19 - INFO - New connected socket [id: DMPVHukg595YgRZeAAAD]
+8.6.2022, 0:29:20 - DEBUG - auth.service - login with email: puki@1234
+8.6.2022, 0:29:20 - INFO - Setting socket.userId = null for socket [id: DMPVHukg595YgRZeAAAD]
+8.6.2022, 0:29:21 - ERROR - Failed to Login Invalid username or password
+8.6.2022, 0:30:24 - INFO - Req was made
+8.6.2022, 0:31:56 - INFO - Socket disconnected [id: undefined]
+8.6.2022, 0:31:59 - INFO - New connected socket [id: pJjW-hnQrCe35uBPAAAF]
+8.6.2022, 0:31:59 - INFO - Req was made
+8.6.2022, 0:31:59 - INFO - Setting socket.userId = null for socket [id: pJjW-hnQrCe35uBPAAAF]
+8.6.2022, 0:32:12 - INFO - Socket disconnected [id: undefined]
+8.6.2022, 0:32:15 - INFO - New connected socket [id: yl4FdyZ2Qv8H16v_AAAH]
+8.6.2022, 0:32:15 - INFO - Req was made
+8.6.2022, 0:32:15 - INFO - Setting socket.userId = null for socket [id: yl4FdyZ2Qv8H16v_AAAH]
+8.6.2022, 0:32:44 - INFO - Removing socket.userId for socket [id: yl4FdyZ2Qv8H16v_AAAH]
+8.6.2022, 0:32:51 - DEBUG - auth.service - login with email: puki@1234
+8.6.2022, 0:32:51 - INFO - User login:  | {"_id":"629f1576f3f8b0b814914b96","email":"puki@1234","firstName":"puki","lastName":"puki","isSocial":false,"imgUrl":null}
+8.6.2022, 0:32:51 - INFO - Setting socket.userId = 629f1576f3f8b0b814914b96 for socket [id: yl4FdyZ2Qv8H16v_AAAH]
+8.6.2022, 0:33:04 - INFO - Socket disconnected [id: undefined]
+8.6.2022, 0:33:08 - INFO - New connected socket [id: FQ8JMOr9qA7b_k15AAAJ]
+8.6.2022, 0:33:09 - INFO - Setting socket.userId = null for socket [id: FQ8JMOr9qA7b_k15AAAJ]
+8.6.2022, 0:33:09 - DEBUG - auth.service - login with email: puki@1234
+8.6.2022, 0:33:10 - ERROR - Failed to Login Invalid username or password
+8.6.2022, 0:33:20 - INFO - Removing socket.userId for socket [id: FQ8JMOr9qA7b_k15AAAJ]
+8.6.2022, 0:33:43 - DEBUG - auth.service - login with email: puki@1234
+8.6.2022, 0:33:43 - INFO - User login:  | {"_id":"629f1576f3f8b0b814914b96","email":"puki@1234","firstName":"puki","lastName":"puki","isSocial":false,"imgUrl":null}
+8.6.2022, 0:33:43 - INFO - Setting socket.userId = 629f1576f3f8b0b814914b96 for socket [id: FQ8JMOr9qA7b_k15AAAJ]
+8.6.2022, 0:37:26 - INFO - Req was made
+8.6.2022, 0:40:52 - INFO - Socket disconnected [id: undefined]
+8.6.2022, 0:40:57 - INFO - New connected socket [id: 1cThTZufHznackuIAAAL]
+8.6.2022, 0:40:58 - INFO - Setting socket.userId = 629f1576f3f8b0b814914b96 for socket [id: 1cThTZufHznackuIAAAL]
+8.6.2022, 0:40:58 - DEBUG - auth.service - login with email: puki@1234
+8.6.2022, 0:41:02 - ERROR - Failed to Login Invalid username or password
+8.6.2022, 0:44:04 - INFO - Socket disconnected [id: undefined]
+8.6.2022, 0:44:08 - INFO - New connected socket [id: -o_HcW945k3O-SN5AAAN]
+8.6.2022, 0:44:09 - INFO - Setting socket.userId = null for socket [id: -o_HcW945k3O-SN5AAAN]
+8.6.2022, 0:44:09 - DEBUG - auth.service - login with email: puki@1234
+8.6.2022, 0:44:10 - ERROR - Failed to Login Invalid username or password
+8.6.2022, 0:46:12 - INFO - Socket disconnected [id: undefined]
+8.6.2022, 0:46:16 - INFO - New connected socket [id: oq_3d5XZQNpfonG3AAAP]
+8.6.2022, 0:46:17 - INFO - Setting socket.userId = null for socket [id: oq_3d5XZQNpfonG3AAAP]
+8.6.2022, 0:46:18 - DEBUG - auth.service - login with email: puki@1234
+8.6.2022, 0:46:18 - ERROR - Failed to Login Invalid username or password
+8.6.2022, 0:47:41 - INFO - Socket disconnected [id: undefined]
+8.6.2022, 0:47:47 - INFO - New connected socket [id: AaG7-zzzj5eiUaq4AAAR]
+8.6.2022, 0:47:49 - DEBUG - auth.service - login with email: puki@1234
+8.6.2022, 0:47:50 - INFO - Setting socket.userId = null for socket [id: AaG7-zzzj5eiUaq4AAAR]
+8.6.2022, 0:47:50 - ERROR - Failed to Login Invalid username or password
+8.6.2022, 2:20:51 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 17:51:57 - INFO - New connected socket [id: oSlY90h3FDU88pxRAAAB]
+18.6.2022, 17:51:57 - INFO - Setting socket.userId = null for socket [id: oSlY90h3FDU88pxRAAAB]
+18.6.2022, 18:00:34 - INFO - Removing socket.userId for socket [id: oSlY90h3FDU88pxRAAAB]
+18.6.2022, 18:08:55 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 18:08:57 - INFO - New connected socket [id: Xk1So3K4s00ztmZIAAAD]
+18.6.2022, 18:08:58 - INFO - Setting socket.userId = null for socket [id: Xk1So3K4s00ztmZIAAAD]
+18.6.2022, 18:09:46 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 18:09:48 - INFO - New connected socket [id: gAgjTLBahNahQpYHAAAF]
+18.6.2022, 18:09:56 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 18:09:58 - INFO - New connected socket [id: ud44MtAKPru_PKChAAAH]
+18.6.2022, 18:09:59 - INFO - Setting socket.userId = null for socket [id: ud44MtAKPru_PKChAAAH]
+18.6.2022, 18:12:25 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 18:12:26 - INFO - New connected socket [id: SoFwJPDEK0f7jEV3AAAJ]
+18.6.2022, 18:12:40 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 18:12:44 - INFO - New connected socket [id: Dq0mpGFhb1PN4IrdAAAL]
+18.6.2022, 18:17:31 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 18:17:33 - INFO - New connected socket [id: ELBft7YDOHEvtdh-AAAN]
+18.6.2022, 18:17:37 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 18:17:38 - INFO - New connected socket [id: E4ESTQJ1IY6sdL8JAAAP]
+18.6.2022, 18:21:51 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 18:21:53 - INFO - New connected socket [id: vUL7K--v8TDYbJl0AAAR]
+18.6.2022, 18:30:25 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 18:31:24 - INFO - New connected socket [id: qzYo0BbYDzaU_i7eAAAT]
+18.6.2022, 18:31:35 - INFO - Wap was edit by socket [id: qzYo0BbYDzaU_i7eAAAT], emitting to wapId null
+18.6.2022, 18:31:37 - INFO - Wap was edit by socket [id: qzYo0BbYDzaU_i7eAAAT], emitting to wapId null
+18.6.2022, 18:31:41 - INFO - Wap was edit by socket [id: qzYo0BbYDzaU_i7eAAAT], emitting to wapId null
+18.6.2022, 18:31:52 - INFO - Wap was edit by socket [id: qzYo0BbYDzaU_i7eAAAT], emitting to wapId null
+18.6.2022, 18:31:56 - INFO - Wap was edit by socket [id: qzYo0BbYDzaU_i7eAAAT], emitting to wapId null
+18.6.2022, 18:42:15 - INFO - New connected socket [id: yeq2UbZOK3xZebUYAAAV]
+18.6.2022, 18:53:35 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 19:05:01 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 19:36:43 - INFO - New connected socket [id: UVj-ZF7eC-CI33oiAAAX]
+18.6.2022, 20:09:46 - INFO - Socket disconnected [id: undefined]
+18.6.2022, 20:52:34 - INFO - New connected socket [id: kHk2DsJryDVP-KVIAAAZ]
+18.6.2022, 20:52:34 - INFO - Setting socket.userId = 629f1576f3f8b0b814914b96 for socket [id: kHk2DsJryDVP-KVIAAAZ]
+18.6.2022, 23:03:38 - INFO - Socket disconnected [id: undefined]
+25.10.2022, 14:56:00 - INFO - New connected socket [id: bvwbQROkmy4yoY_5AAAB]
+25.10.2022, 14:56:27 - INFO - Socket disconnected [id: undefined]
